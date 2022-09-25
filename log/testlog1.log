@@ -1,0 +1,1257 @@
+2022-09-16 18:36:49,806 [TestNG-tests-2] INFO Important - Browser got launched
+2022-09-16 18:36:49,817 [TestNG-tests-5] INFO Important - Browser got launched
+2022-09-16 18:36:49,818 [TestNG-tests-3] INFO Important - Browser got launched
+2022-09-16 18:36:49,822 [TestNG-tests-1] INFO Important - Browser got launched
+2022-09-16 18:36:49,824 [TestNG-tests-4] INFO Important - Browser got launched
+2022-09-16 18:36:56,370 [TestNG-tests-1] INFO Important - browser opened successfully
+2022-09-16 18:36:57,761 [TestNG-tests-1] INFO Important - Browser got launched
+2022-09-16 18:36:57,807 [TestNG-tests-5] INFO Important - browser opened successfully
+2022-09-16 18:36:58,578 [TestNG-tests-3] INFO Important - browser opened successfully
+2022-09-16 18:36:58,623 [TestNG-tests-2] INFO Important - browser opened successfully
+2022-09-16 18:36:58,657 [TestNG-tests-4] INFO Important - browser opened successfully
+2022-09-16 18:37:01,125 [TestNG-tests-5] INFO Important - landed to login page successfully
+2022-09-16 18:37:01,382 [TestNG-tests-5] INFO Important - email address entered successfully
+2022-09-16 18:37:01,579 [TestNG-tests-5] INFO Important - password entered successfully
+2022-09-16 18:37:02,466 [TestNG-tests-1] INFO Important - browser opened successfully
+2022-09-16 18:37:02,605 [TestNG-tests-3] INFO Important - landed to login page successfully
+2022-09-16 18:37:02,820 [TestNG-tests-2] INFO Important - landed to login page successfully
+2022-09-16 18:37:02,854 [TestNG-tests-4] INFO Important - landed to login page successfully
+2022-09-16 18:37:02,882 [TestNG-tests-3] INFO Important - email address entered successfully
+2022-09-16 18:37:03,037 [TestNG-tests-3] INFO Important - password entered successfully
+2022-09-16 18:37:03,097 [TestNG-tests-2] INFO Important - email address entered successfully
+2022-09-16 18:37:03,147 [TestNG-tests-4] INFO Important - email address entered successfully
+2022-09-16 18:37:03,225 [TestNG-tests-2] INFO Important - password entered successfully
+2022-09-16 18:37:03,251 [TestNG-tests-4] INFO Important - password entered successfully
+2022-09-16 18:37:05,122 [TestNG-tests-1] INFO Important - landed to login page successfully
+2022-09-16 18:37:05,271 [TestNG-tests-1] INFO Important - email address entered successfully
+2022-09-16 18:37:05,367 [TestNG-tests-1] INFO Important - password entered successfully
+2022-09-16 18:37:09,081 [TestNG-tests-5] INFO Important - successfully clicked on login button
+2022-09-16 18:37:10,088 [TestNG-tests-5] INFO Important - browser opened successfully
+2022-09-16 18:37:10,090 [TestNG-tests-5] INFO Important - login successfully
+2022-09-16 18:37:10,656 [TestNG-tests-4] INFO Important - successfully clicked on login button
+2022-09-16 18:37:11,087 [TestNG-tests-2] INFO Important - successfully clicked on login button
+2022-09-16 18:37:11,128 [TestNG-tests-3] INFO Important - successfully clicked on login button
+2022-09-16 18:37:11,667 [TestNG-tests-4] INFO Important - browser opened successfully
+2022-09-16 18:37:11,667 [TestNG-tests-4] INFO Important - login successfully
+2022-09-16 18:37:11,994 [TestNG-tests-1] INFO Important - successfully clicked on login button
+2022-09-16 18:37:12,136 [TestNG-tests-3] INFO Important - browser opened successfully
+2022-09-16 18:37:12,136 [TestNG-tests-3] INFO Important - login successfully
+2022-09-16 18:37:12,137 [TestNG-tests-3] INFO Important - testing broken links
+2022-09-16 18:37:12,246 [TestNG-tests-2] INFO Important - popup closed successfully
+2022-09-16 18:37:13,002 [TestNG-tests-1] INFO Important - login is working fine
+2022-09-16 18:37:13,392 [TestNG-tests-2] INFO Important - Successful Hover to Furniture menu
+2022-09-16 18:37:14,542 [TestNG-tests-2] INFO Important - Successful Hover to Sofas & recliners menu
+2022-09-16 18:37:15,443 [TestNG-tests-1] INFO Important - browser closed successfully
+2022-09-16 18:37:15,696 [TestNG-tests-2] INFO Important - Successful Hover to BEDS & WARDROBE menu
+2022-09-16 18:37:17,086 [TestNG-tests-2] INFO Important - Successful Hover to DINING menu
+2022-09-16 18:37:17,392 [TestNG-tests-1] INFO Important - Browser got launched
+2022-09-16 18:37:18,621 [TestNG-tests-2] INFO Important - Successful Hover to WORK FROM HOME menu
+2022-09-16 18:37:20,028 [TestNG-tests-2] INFO Important - Successful Hover to DECOR menu
+2022-09-16 18:37:21,294 [TestNG-tests-5] INFO Important - clicked on chairs product page menu successfully
+2022-09-16 18:37:21,294 [TestNG-tests-5] INFO Important - finding the broken images
+2022-09-16 18:37:21,396 [TestNG-tests-2] INFO Important - Successful Hover to HINDWARE menu
+2022-09-16 18:37:23,719 [TestNG-tests-4] INFO Important - clicked on living room product page menu successfully
+2022-09-16 18:37:23,719 [TestNG-tests-4] INFO Important - finding the broken images
+2022-09-16 18:37:24,286 [TestNG-tests-1] INFO Important - browser opened successfully
+2022-09-16 18:37:25,989 [TestNG-tests-1] INFO Important - landed to login page successfully
+2022-09-16 18:37:27,539 [TestNG-tests-1] INFO Important - email address entered successfully
+2022-09-16 18:37:27,753 [TestNG-tests-1] INFO Important - password entered successfully
+2022-09-16 18:37:27,897 [TestNG-tests-1] INFO Important - successfully clicked on login button
+2022-09-16 18:37:28,910 [TestNG-tests-1] INFO Important - browser opened successfully
+2022-09-16 18:37:28,910 [TestNG-tests-1] INFO Important - login successfully
+2022-09-16 18:37:41,101 [TestNG-tests-1] INFO Important - clicked on sofas product page menu successfully
+2022-09-16 18:37:41,102 [TestNG-tests-1] INFO Important - finding the broken images
+2022-09-16 18:37:47,331 [TestNG-tests-2] INFO Important - browser closed successfully
+2022-09-16 18:37:48,126 [TestNG-tests-2] INFO Important - Browser got launched
+2022-09-16 18:37:53,038 [TestNG-tests-2] INFO Important - browser opened successfully
+2022-09-16 18:37:55,527 [TestNG-tests-2] INFO Important - landed to login page successfully
+2022-09-16 18:37:55,657 [TestNG-tests-2] INFO Important - email address entered successfully
+2022-09-16 18:37:55,735 [TestNG-tests-2] INFO Important - password entered successfully
+2022-09-16 18:38:01,456 [TestNG-tests-2] INFO Important - successfully clicked on login button
+2022-09-16 18:38:02,462 [TestNG-tests-2] INFO Important - browser opened successfully
+2022-09-16 18:38:02,462 [TestNG-tests-2] INFO Important - login successfully
+2022-09-16 18:38:10,685 [TestNG-tests-2] INFO Important - clicked on Bedroom product page menu successfully
+2022-09-16 18:38:10,686 [TestNG-tests-2] INFO Important - finding the broken images
+2022-09-16 18:40:09,719 [TestNG-tests-5] INFO Important - finding the broken url
+2022-09-16 18:40:11,158 [TestNG-tests-4] INFO Important - finding the broken url
+2022-09-16 18:40:27,173 [TestNG-tests-1] INFO Important - finding the broken url
+2022-09-16 18:40:55,213 [TestNG-tests-2] INFO Important - finding the broken url
+2022-09-16 18:51:29,410 [TestNG-tests-3] INFO Important - testing broken images
+2022-09-16 18:52:22,170 [TestNG-tests-3] INFO Important - browser closed successfully
+2022-09-16 18:52:22,170 [TestNG-tests-3] INFO Important - browser closed successfully
+2022-09-16 18:52:23,358 [TestNG-tests-3] INFO Important - Browser got launched
+2022-09-16 18:52:28,069 [TestNG-tests-3] INFO Important - browser opened successfully
+2022-09-16 18:52:31,248 [TestNG-tests-3] INFO Important - landed to login page successfully
+2022-09-16 18:52:31,394 [TestNG-tests-3] INFO Important - email address entered successfully
+2022-09-16 18:52:31,468 [TestNG-tests-3] INFO Important - password entered successfully
+2022-09-16 18:52:37,122 [TestNG-tests-3] INFO Important - successfully clicked on login button
+2022-09-16 18:52:38,124 [TestNG-tests-3] INFO Important - browser opened successfully
+2022-09-16 18:52:38,125 [TestNG-tests-3] INFO Important - login successfully
+2022-09-16 18:52:45,662 [TestNG-tests-3] INFO Important - clicked on living room product page menu successfully
+2022-09-16 18:52:45,662 [TestNG-tests-3] INFO Important - finding the broken images
+2022-09-16 18:55:34,147 [TestNG-tests-3] INFO Important - finding the broken url
+2022-09-16 18:58:37,231 [TestNG-tests-5] INFO Important - browser closed successfully
+2022-09-16 18:58:38,006 [TestNG-tests-5] INFO Important - Browser got launched
+2022-09-16 18:58:42,607 [TestNG-tests-5] INFO Important - browser opened successfully
+2022-09-16 18:58:49,880 [TestNG-tests-5] INFO Important - Browser got launched
+2022-09-16 18:58:56,086 [TestNG-tests-2] INFO Important - browser closed successfully
+2022-09-16 18:58:57,486 [TestNG-tests-5] INFO Important - browser opened successfully
+2022-09-16 18:59:09,882 [TestNG-tests-1] INFO Important - browser closed successfully
+2022-09-16 19:02:05,958 [TestNG-tests-4] INFO Important - browser closed successfully
+2022-09-17 23:12:06,548 [TestNG-tests-5] INFO Important - Browser got launched
+2022-09-17 23:12:06,561 [TestNG-tests-1] INFO Important - Browser got launched
+2022-09-17 23:12:06,614 [TestNG-tests-4] INFO Important - Browser got launched
+2022-09-17 23:12:06,614 [TestNG-tests-2] INFO Important - Browser got launched
+2022-09-17 23:12:06,614 [TestNG-tests-3] INFO Important - Browser got launched
+2022-09-17 23:12:08,129 [TestNG-tests-5] INFO Important - browser opened successfully
+2022-09-17 23:12:10,234 [TestNG-tests-5] INFO Important - Browser got launched
+2022-09-17 23:12:11,770 [TestNG-tests-4] INFO Important - browser opened successfully
+2022-09-17 23:12:12,559 [TestNG-tests-3] INFO Important - browser opened successfully
+2022-09-17 23:12:13,700 [TestNG-tests-1] INFO Important - browser opened successfully
+2022-09-17 23:12:13,920 [TestNG-tests-2] INFO Important - browser opened successfully
+2022-09-17 23:12:14,404 [TestNG-tests-5] INFO Important - browser opened successfully
+2022-09-17 23:12:14,693 [TestNG-tests-1] INFO Important - Browser got launched
+2022-09-17 23:12:15,750 [TestNG-tests-3] INFO Important - landed to login page successfully
+2022-09-17 23:12:15,859 [TestNG-tests-3] INFO Important - email address entered successfully
+2022-09-17 23:12:15,956 [TestNG-tests-3] INFO Important - password entered successfully
+2022-09-17 23:12:17,119 [TestNG-tests-2] INFO Important - landed to login page successfully
+2022-09-17 23:12:17,373 [TestNG-tests-2] INFO Important - email address entered successfully
+2022-09-17 23:12:17,442 [TestNG-tests-5] INFO Important - landed to login page successfully
+2022-09-17 23:12:17,507 [TestNG-tests-2] INFO Important - password entered successfully
+2022-09-17 23:12:17,659 [TestNG-tests-5] INFO Important - email address entered successfully
+2022-09-17 23:12:17,822 [TestNG-tests-5] INFO Important - password entered successfully
+2022-09-17 23:12:17,923 [TestNG-tests-5] INFO Important - successfully clicked on login button
+2022-09-17 23:12:18,928 [TestNG-tests-5] INFO Important - browser opened successfully
+2022-09-17 23:12:18,928 [TestNG-tests-5] INFO Important - login successfully
+2022-09-17 23:12:19,211 [TestNG-tests-1] INFO Important - browser opened successfully
+2022-09-17 23:12:20,982 [TestNG-tests-3] INFO Important - successfully clicked on login button
+2022-09-17 23:12:21,854 [TestNG-tests-1] INFO Important - landed to login page successfully
+2022-09-17 23:12:21,997 [TestNG-tests-3] INFO Important - browser opened successfully
+2022-09-17 23:12:21,997 [TestNG-tests-3] INFO Important - login successfully
+2022-09-17 23:12:21,998 [TestNG-tests-3] INFO Important - testing broken links
+2022-09-17 23:12:22,131 [TestNG-tests-1] INFO Important - email address entered successfully
+2022-09-17 23:12:22,332 [TestNG-tests-1] INFO Important - password entered successfully
+2022-09-17 23:12:23,112 [TestNG-tests-2] INFO Important - successfully clicked on login button
+2022-09-17 23:12:23,476 [TestNG-tests-4] INFO Important - Browser got launched
+2022-09-17 23:12:24,260 [TestNG-tests-2] INFO Important - popup closed successfully
+2022-09-17 23:12:25,392 [TestNG-tests-2] INFO Important - Successful Hover to Furniture menu
+2022-09-17 23:12:26,629 [TestNG-tests-2] INFO Important - Successful Hover to Sofas & recliners menu
+2022-09-17 23:12:27,321 [TestNG-tests-1] INFO Important - successfully clicked on login button
+2022-09-17 23:12:27,808 [TestNG-tests-2] INFO Important - Successful Hover to BEDS & WARDROBE menu
+2022-09-17 23:12:28,329 [TestNG-tests-1] INFO Important - login is working fine
+2022-09-17 23:12:28,955 [TestNG-tests-2] INFO Important - Successful Hover to DINING menu
+2022-09-17 23:12:30,098 [TestNG-tests-2] INFO Important - Successful Hover to WORK FROM HOME menu
+2022-09-17 23:12:30,416 [TestNG-tests-5] INFO Important - clicked on sofas product page menu successfully
+2022-09-17 23:12:30,416 [TestNG-tests-5] INFO Important - finding the broken images
+2022-09-17 23:12:30,730 [TestNG-tests-1] INFO Important - browser closed successfully
+2022-09-17 23:12:31,266 [TestNG-tests-2] INFO Important - Successful Hover to DECOR menu
+2022-09-17 23:12:31,625 [TestNG-tests-1] INFO Important - Browser got launched
+2022-09-17 23:12:32,490 [TestNG-tests-2] INFO Important - Successful Hover to HINDWARE menu
+2022-09-17 23:12:33,426 [TestNG-tests-4] INFO Important - browser opened successfully
+2022-09-17 23:12:40,634 [TestNG-tests-4] INFO Important - Browser got launched
+2022-09-17 23:12:44,468 [TestNG-tests-1] INFO Important - browser opened successfully
+2022-09-17 23:12:46,800 [TestNG-tests-4] INFO Important - browser opened successfully
+2022-09-17 23:12:49,213 [TestNG-tests-4] INFO Important - landed to login page successfully
+2022-09-17 23:12:49,362 [TestNG-tests-4] INFO Important - email address entered successfully
+2022-09-17 23:12:49,445 [TestNG-tests-4] INFO Important - password entered successfully
+2022-09-17 23:12:51,887 [TestNG-tests-1] INFO Important - Browser got launched
+2022-09-17 23:12:53,938 [TestNG-tests-4] INFO Important - successfully clicked on login button
+2022-09-17 23:12:54,952 [TestNG-tests-4] INFO Important - browser opened successfully
+2022-09-17 23:12:54,952 [TestNG-tests-4] INFO Important - login successfully
+2022-09-17 23:12:56,248 [TestNG-tests-1] INFO Important - browser opened successfully
+2022-09-17 23:12:57,511 [TestNG-tests-2] INFO Important - browser closed successfully
+2022-09-17 23:12:58,528 [TestNG-tests-1] INFO Important - landed to login page successfully
+2022-09-17 23:12:58,624 [TestNG-tests-1] INFO Important - email address entered successfully
+2022-09-17 23:12:58,703 [TestNG-tests-1] INFO Important - password entered successfully
+2022-09-17 23:13:01,919 [TestNG-tests-4] INFO Important - clicked on Wardrobe page menu successfully
+2022-09-17 23:13:01,919 [TestNG-tests-4] INFO Important - finding the broken images
+2022-09-17 23:13:02,899 [TestNG-tests-1] INFO Important - successfully clicked on login button
+2022-09-17 23:13:03,907 [TestNG-tests-1] INFO Important - browser opened successfully
+2022-09-17 23:13:03,907 [TestNG-tests-1] INFO Important - login successfully
+2022-09-17 23:13:10,905 [TestNG-tests-1] INFO Important - clicked on Storage page menu successfully
+2022-09-17 23:13:10,905 [TestNG-tests-1] INFO Important - finding the broken images
+2022-09-17 23:13:57,483 [TestNG-tests-4] INFO Important - finding the broken url
+2022-09-17 23:14:15,992 [TestNG-tests-1] INFO Important - finding the broken url
+2022-09-17 23:26:52,513 [TestNG-tests-3] INFO Important - Browser got launched
+2022-09-17 23:26:52,526 [TestNG-tests-5] INFO Important - Browser got launched
+2022-09-17 23:26:52,533 [TestNG-tests-1] INFO Important - Browser got launched
+2022-09-17 23:26:52,543 [TestNG-tests-4] INFO Important - Browser got launched
+2022-09-17 23:26:52,585 [TestNG-tests-2] INFO Important - Browser got launched
+2022-09-17 23:26:59,141 [TestNG-tests-5] INFO Important - browser opened successfully
+2022-09-17 23:27:00,072 [TestNG-tests-4] INFO Important - browser opened successfully
+2022-09-17 23:27:00,183 [TestNG-tests-2] INFO Important - browser opened successfully
+2022-09-17 23:27:00,304 [TestNG-tests-1] INFO Important - browser opened successfully
+2022-09-17 23:27:02,390 [TestNG-tests-1] INFO Important - Browser got launched
+2022-09-17 23:27:03,236 [TestNG-tests-5] INFO Important - landed to login page successfully
+2022-09-17 23:27:04,014 [TestNG-tests-5] INFO Important - email address entered successfully
+2022-09-17 23:27:04,408 [TestNG-tests-5] INFO Important - password entered successfully
+2022-09-17 23:27:06,149 [TestNG-tests-2] INFO Important - landed to login page successfully
+2022-09-17 23:27:06,773 [TestNG-tests-4] INFO Important - landed to login page successfully
+2022-09-17 23:27:06,919 [TestNG-tests-2] INFO Important - email address entered successfully
+2022-09-17 23:27:07,310 [TestNG-tests-2] INFO Important - password entered successfully
+2022-09-17 23:27:07,616 [TestNG-tests-4] INFO Important - email address entered successfully
+2022-09-17 23:27:07,869 [TestNG-tests-4] INFO Important - password entered successfully
+2022-09-17 23:27:08,284 [TestNG-tests-3] INFO Important - browser opened successfully
+2022-09-17 23:27:08,788 [TestNG-tests-1] INFO Important - browser opened successfully
+2022-09-17 23:27:11,935 [TestNG-tests-1] INFO Important - landed to login page successfully
+2022-09-17 23:27:12,040 [TestNG-tests-5] INFO Important - successfully clicked on login button
+2022-09-17 23:27:12,626 [TestNG-tests-1] INFO Important - email address entered successfully
+2022-09-17 23:27:13,042 [TestNG-tests-1] INFO Important - password entered successfully
+2022-09-17 23:27:13,046 [TestNG-tests-5] INFO Important - browser opened successfully
+2022-09-17 23:27:13,046 [TestNG-tests-5] INFO Important - login successfully
+2022-09-17 23:27:13,818 [TestNG-tests-2] INFO Important - successfully clicked on login button
+2022-09-17 23:27:14,078 [TestNG-tests-4] INFO Important - successfully clicked on login button
+2022-09-17 23:27:15,018 [TestNG-tests-2] INFO Important - popup closed successfully
+2022-09-17 23:27:15,082 [TestNG-tests-4] INFO Important - browser opened successfully
+2022-09-17 23:27:15,083 [TestNG-tests-4] INFO Important - login successfully
+2022-09-17 23:27:16,192 [TestNG-tests-2] INFO Important - Successful Hover to Furniture menu
+2022-09-17 23:27:17,422 [TestNG-tests-3] INFO Important - Browser got launched
+2022-09-17 23:27:17,508 [TestNG-tests-2] INFO Important - Successful Hover to Sofas & recliners menu
+2022-09-17 23:27:18,951 [TestNG-tests-2] INFO Important - Successful Hover to BEDS & WARDROBE menu
+2022-09-17 23:27:20,332 [TestNG-tests-2] INFO Important - Successful Hover to DINING menu
+2022-09-17 23:27:21,252 [TestNG-tests-1] INFO Important - successfully clicked on login button
+2022-09-17 23:27:21,844 [TestNG-tests-2] INFO Important - Successful Hover to WORK FROM HOME menu
+2022-09-17 23:27:22,255 [TestNG-tests-1] INFO Important - login is working fine
+2022-09-17 23:27:23,054 [TestNG-tests-2] INFO Important - Successful Hover to DECOR menu
+2022-09-17 23:27:24,237 [TestNG-tests-2] INFO Important - Successful Hover to HINDWARE menu
+2022-09-17 23:27:24,614 [TestNG-tests-5] INFO Important - clicked on chairs product page menu successfully
+2022-09-17 23:27:24,615 [TestNG-tests-5] INFO Important - finding the broken images
+2022-09-17 23:27:25,103 [TestNG-tests-1] INFO Important - browser closed successfully
+2022-09-17 23:27:28,873 [TestNG-tests-4] INFO Important - clicked on living room product page menu successfully
+2022-09-17 23:27:28,874 [TestNG-tests-4] INFO Important - finding the broken images
+2022-09-17 23:27:28,878 [TestNG-tests-1] INFO Important - Browser got launched
+2022-09-17 23:27:34,642 [TestNG-tests-1] INFO Important - browser opened successfully
+2022-09-17 23:27:38,325 [TestNG-tests-3] INFO Important - browser opened successfully
+2022-09-17 23:27:39,221 [TestNG-tests-1] INFO Important - landed to login page successfully
+2022-09-17 23:27:39,511 [TestNG-tests-1] INFO Important - email address entered successfully
+2022-09-17 23:27:39,660 [TestNG-tests-1] INFO Important - password entered successfully
+2022-09-17 23:27:45,791 [TestNG-tests-3] INFO Important - Browser got launched
+2022-09-17 23:27:46,115 [TestNG-tests-1] INFO Important - successfully clicked on login button
+2022-09-17 23:27:47,120 [TestNG-tests-1] INFO Important - browser opened successfully
+2022-09-17 23:27:47,122 [TestNG-tests-1] INFO Important - login successfully
+2022-09-17 23:27:50,954 [TestNG-tests-3] INFO Important - browser opened successfully
+2022-09-17 23:27:54,319 [TestNG-tests-3] INFO Important - landed to login page successfully
+2022-09-17 23:27:54,586 [TestNG-tests-3] INFO Important - email address entered successfully
+2022-09-17 23:27:54,750 [TestNG-tests-3] INFO Important - password entered successfully
+2022-09-17 23:27:56,450 [TestNG-tests-2] INFO Important - browser closed successfully
+2022-09-17 23:27:57,614 [TestNG-tests-2] INFO Important - Browser got launched
+2022-09-17 23:27:57,843 [TestNG-tests-1] INFO Important - clicked on Bedroom product page menu successfully
+2022-09-17 23:27:57,844 [TestNG-tests-1] INFO Important - finding the broken images
+2022-09-17 23:28:00,591 [TestNG-tests-3] INFO Important - successfully clicked on login button
+2022-09-17 23:28:01,596 [TestNG-tests-3] INFO Important - browser opened successfully
+2022-09-17 23:28:01,597 [TestNG-tests-3] INFO Important - login successfully
+2022-09-17 23:28:03,674 [TestNG-tests-2] INFO Important - browser opened successfully
+2022-09-17 23:28:10,900 [TestNG-tests-3] INFO Important - clicked on living room product page menu successfully
+2022-09-17 23:28:10,900 [TestNG-tests-3] INFO Important - finding the broken images
+2022-09-17 23:28:11,117 [TestNG-tests-2] INFO Important - Browser got launched
+2022-09-17 23:28:16,580 [TestNG-tests-2] INFO Important - browser opened successfully
+2022-09-17 23:28:19,989 [TestNG-tests-2] INFO Important - landed to login page successfully
+2022-09-17 23:28:20,251 [TestNG-tests-2] INFO Important - email address entered successfully
+2022-09-17 23:28:20,512 [TestNG-tests-2] INFO Important - password entered successfully
+2022-09-17 23:28:26,433 [TestNG-tests-2] INFO Important - successfully clicked on login button
+2022-09-17 23:28:27,447 [TestNG-tests-2] INFO Important - browser opened successfully
+2022-09-17 23:28:27,447 [TestNG-tests-2] INFO Important - login successfully
+2022-09-17 23:28:35,034 [TestNG-tests-2] INFO Important - clicked on Storage page menu successfully
+2022-09-17 23:28:35,035 [TestNG-tests-2] INFO Important - finding the broken images
+2022-09-17 23:29:39,691 [TestNG-tests-2] INFO Important - finding the broken url
+2022-09-17 23:30:14,578 [TestNG-tests-4] INFO Important - finding the broken url
+2022-09-17 23:30:19,167 [TestNG-tests-5] INFO Important - finding the broken url
+2022-09-17 23:30:36,427 [TestNG-tests-1] INFO Important - finding the broken url
+2022-09-17 23:30:51,252 [TestNG-tests-3] INFO Important - finding the broken url
+2022-09-18 00:50:37,386 [main] INFO Important - Browser got launched
+2022-09-18 00:50:46,402 [main] INFO Important - browser opened successfully
+2022-09-18 00:50:47,182 [main] INFO Important - Browser got launched
+2022-09-18 00:51:02,747 [main] INFO Important - browser opened successfully
+2022-09-18 00:51:05,550 [main] INFO Important - landed to login page successfully
+2022-09-18 00:51:05,673 [main] INFO Important - email address entered successfully
+2022-09-18 00:51:05,750 [main] INFO Important - password entered successfully
+2022-09-18 00:51:11,995 [main] INFO Important - successfully clicked on login button
+2022-09-18 00:51:13,004 [main] INFO Important - login is working fine
+2022-09-18 00:51:15,614 [main] INFO Important - browser closed successfully
+2022-09-18 00:51:16,432 [main] INFO Important - Browser got launched
+2022-09-18 00:51:21,465 [main] INFO Important - browser opened successfully
+2022-09-18 00:51:24,225 [main] INFO Important - landed to login page successfully
+2022-09-18 00:51:24,354 [main] INFO Important - email address entered successfully
+2022-09-18 00:51:24,430 [main] INFO Important - password entered successfully
+2022-09-18 00:51:29,914 [main] INFO Important - successfully clicked on login button
+2022-09-18 00:51:31,111 [main] INFO Important - popup closed successfully
+2022-09-18 00:51:32,258 [main] INFO Important - Successful Hover to Furniture menu
+2022-09-18 00:51:38,414 [main] INFO Important - Successful Hover to Sofas & recliners menu
+2022-09-18 00:51:44,602 [main] INFO Important - Successful Hover to BEDS & WARDROBE menu
+2022-09-18 00:51:50,802 [main] INFO Important - Successful Hover to DINING menu
+2022-09-18 00:51:56,991 [main] INFO Important - Successful Hover to WORK FROM HOME menu
+2022-09-18 00:52:03,171 [main] INFO Important - Successful Hover to DECOR menu
+2022-09-18 00:52:09,338 [main] INFO Important - Successful Hover to HINDWARE menu
+2022-09-18 00:52:40,417 [main] INFO Important - browser closed successfully
+2022-09-18 00:52:41,249 [main] INFO Important - Browser got launched
+2022-09-18 00:52:47,467 [main] INFO Important - browser opened successfully
+2022-09-18 00:52:50,654 [main] INFO Important - landed to login page successfully
+2022-09-18 00:52:50,782 [main] INFO Important - email address entered successfully
+2022-09-18 00:52:50,862 [main] INFO Important - password entered successfully
+2022-09-18 00:52:55,760 [main] INFO Important - successfully clicked on login button
+2022-09-18 00:52:56,773 [main] INFO Important - browser opened successfully
+2022-09-18 00:52:56,775 [main] INFO Important - login successfully
+2022-09-18 00:52:56,776 [main] INFO Important - testing broken links
+2022-09-18 01:01:48,812 [main] INFO Important - Browser got launched
+2022-09-18 01:01:55,700 [main] INFO Important - browser opened successfully
+2022-09-18 01:01:59,698 [main] INFO Important - landed to login page successfully
+2022-09-18 01:01:59,804 [main] INFO Important - email address entered successfully
+2022-09-18 01:01:59,881 [main] INFO Important - password entered successfully
+2022-09-18 01:02:07,662 [main] INFO Important - successfully clicked on login button
+2022-09-18 01:02:16,395 [main] INFO Important - clicked on living room product page menu successfully
+2022-09-18 01:04:24,887 [main] INFO Important - Browser got launched
+2022-09-18 01:04:31,613 [main] INFO Important - browser opened successfully
+2022-09-18 01:04:34,513 [main] INFO Important - landed to login page successfully
+2022-09-18 01:04:34,644 [main] INFO Important - email address entered successfully
+2022-09-18 01:04:34,711 [main] INFO Important - password entered successfully
+2022-09-18 01:04:40,209 [main] INFO Important - successfully clicked on login button
+2022-09-18 01:04:48,145 [main] INFO Important - clicked on living room product page menu successfully
+2022-09-18 01:04:52,667 [main] INFO Important - browser closed successfully
+2022-09-18 01:11:33,634 [main] INFO Important - Browser got launched
+2022-09-18 01:11:42,523 [main] INFO Important - browser opened successfully
+2022-09-18 01:11:45,241 [main] INFO Important - landed to login page successfully
+2022-09-18 01:11:45,371 [main] INFO Important - email address entered successfully
+2022-09-18 01:11:45,453 [main] INFO Important - password entered successfully
+2022-09-18 01:11:50,206 [main] INFO Important - successfully clicked on login button
+2022-09-18 01:11:58,192 [main] INFO Important - clicked on living room product page menu successfully
+2022-09-18 01:18:14,327 [main] INFO Important - Browser got launched
+2022-09-18 01:18:20,518 [main] INFO Important - browser opened successfully
+2022-09-18 01:18:23,392 [main] INFO Important - landed to login page successfully
+2022-09-18 01:18:23,582 [main] INFO Important - email address entered successfully
+2022-09-18 01:18:23,678 [main] INFO Important - password entered successfully
+2022-09-18 01:18:29,949 [main] INFO Important - successfully clicked on login button
+2022-09-18 01:18:38,648 [main] INFO Important - clicked on living room product page menu successfully
+2022-09-18 01:20:04,019 [main] INFO Important - Browser got launched
+2022-09-18 01:20:09,996 [main] INFO Important - browser opened successfully
+2022-09-18 01:20:12,672 [main] INFO Important - landed to login page successfully
+2022-09-18 01:20:12,844 [main] INFO Important - email address entered successfully
+2022-09-18 01:20:12,919 [main] INFO Important - password entered successfully
+2022-09-18 01:20:17,847 [main] INFO Important - successfully clicked on login button
+2022-09-18 01:20:26,058 [main] INFO Important - clicked on living room product page menu successfully
+2022-09-18 01:23:16,101 [main] INFO Important - Browser got launched
+2022-09-18 01:23:23,146 [main] INFO Important - browser opened successfully
+2022-09-18 01:23:48,521 [main] INFO Important - Browser got launched
+2022-09-18 01:23:55,972 [main] INFO Important - browser opened successfully
+2022-09-18 01:23:58,822 [main] INFO Important - landed to login page successfully
+2022-09-18 01:23:58,978 [main] INFO Important - email address entered successfully
+2022-09-18 01:23:59,052 [main] INFO Important - password entered successfully
+2022-09-18 01:24:04,387 [main] INFO Important - successfully clicked on login button
+2022-09-18 01:24:12,314 [main] INFO Important - clicked on living room product page menu successfully
+2022-09-18 01:29:02,525 [main] INFO Important - Browser got launched
+2022-09-18 01:29:07,904 [main] INFO Important - browser opened successfully
+2022-09-18 01:29:10,847 [main] INFO Important - landed to login page successfully
+2022-09-18 01:29:11,002 [main] INFO Important - email address entered successfully
+2022-09-18 01:29:11,081 [main] INFO Important - password entered successfully
+2022-09-18 01:29:11,156 [main] INFO Important - successfully clicked on login button
+2022-09-18 01:29:23,873 [main] INFO Important - clicked on living room product page menu successfully
+2022-09-18 01:39:25,106 [main] INFO Important - Browser got launched
+2022-09-18 01:39:32,792 [main] INFO Important - browser opened successfully
+2022-09-18 01:43:14,597 [main] INFO Important - Browser got launched
+2022-09-18 01:43:25,963 [main] INFO Important - browser opened successfully
+2022-09-18 01:43:28,909 [main] INFO Important - landed to login page successfully
+2022-09-18 01:43:29,046 [main] INFO Important - email address entered successfully
+2022-09-18 01:43:29,119 [main] INFO Important - password entered successfully
+2022-09-18 01:43:35,369 [main] INFO Important - successfully clicked on login button
+2022-09-18 01:43:42,977 [main] INFO Important - clicked on living room product page menu successfully
+2022-09-18 01:45:34,397 [main] INFO Important - Browser got launched
+2022-09-18 01:45:45,914 [main] INFO Important - browser opened successfully
+2022-09-18 01:45:48,885 [main] INFO Important - landed to login page successfully
+2022-09-18 01:45:49,004 [main] INFO Important - email address entered successfully
+2022-09-18 01:45:49,078 [main] INFO Important - password entered successfully
+2022-09-18 01:45:55,780 [main] INFO Important - successfully clicked on login button
+2022-09-18 01:46:04,352 [main] INFO Important - clicked on living room product page menu successfully
+2022-09-18 01:52:09,816 [main] INFO Important - Browser got launched
+2022-09-18 01:52:22,521 [main] INFO Important - browser opened successfully
+2022-09-18 01:52:52,394 [main] INFO Important - Browser got launched
+2022-09-18 01:53:01,406 [main] INFO Important - browser opened successfully
+2022-09-18 01:53:04,267 [main] INFO Important - landed to login page successfully
+2022-09-18 01:53:04,398 [main] INFO Important - email address entered successfully
+2022-09-18 01:53:04,477 [main] INFO Important - password entered successfully
+2022-09-18 01:53:09,827 [main] INFO Important - successfully clicked on login button
+2022-09-18 01:53:17,803 [main] INFO Important - clicked on living room product page menu successfully
+2022-09-18 01:53:35,199 [main] INFO Important - Browser got launched
+2022-09-18 01:53:43,020 [main] INFO Important - browser opened successfully
+2022-09-18 01:53:45,684 [main] INFO Important - landed to login page successfully
+2022-09-18 01:53:45,817 [main] INFO Important - email address entered successfully
+2022-09-18 01:53:45,886 [main] INFO Important - password entered successfully
+2022-09-18 01:53:51,011 [main] INFO Important - successfully clicked on login button
+2022-09-18 01:53:58,762 [main] INFO Important - clicked on living room product page menu successfully
+2022-09-18 01:59:06,406 [main] INFO Important - Browser got launched
+2022-09-18 01:59:39,015 [main] INFO Important - browser opened successfully
+2022-09-18 01:59:42,347 [main] INFO Important - landed to login page successfully
+2022-09-18 01:59:42,451 [main] INFO Important - email address entered successfully
+2022-09-18 01:59:42,535 [main] INFO Important - password entered successfully
+2022-09-18 01:59:47,586 [main] INFO Important - successfully clicked on login button
+2022-09-18 02:00:24,281 [main] INFO Important - Browser got launched
+2022-09-18 02:00:31,540 [main] INFO Important - browser opened successfully
+2022-09-18 02:00:34,639 [main] INFO Important - landed to login page successfully
+2022-09-18 02:00:34,770 [main] INFO Important - email address entered successfully
+2022-09-18 02:00:34,845 [main] INFO Important - password entered successfully
+2022-09-18 02:00:34,918 [main] INFO Important - successfully clicked on login button
+2022-09-18 02:00:50,583 [main] INFO Important - clicked on living room product page menu successfully
+2022-09-18 02:00:57,582 [main] INFO Important - browser closed successfully
+2022-09-18 02:07:30,603 [main] INFO Important - Browser got launched
+2022-09-18 02:07:35,957 [main] INFO Important - browser opened successfully
+2022-09-18 02:07:38,839 [main] INFO Important - landed to login page successfully
+2022-09-18 02:07:38,967 [main] INFO Important - email address entered successfully
+2022-09-18 02:07:39,034 [main] INFO Important - password entered successfully
+2022-09-18 02:07:43,656 [main] INFO Important - successfully clicked on login button
+2022-09-18 02:07:51,654 [main] INFO Important - clicked on living room product page menu successfully
+2022-09-18 02:09:26,342 [main] INFO Important - Browser got launched
+2022-09-18 02:09:31,328 [main] INFO Important - browser opened successfully
+2022-09-18 02:09:46,997 [main] INFO Important - Browser got launched
+2022-09-18 02:09:53,809 [main] INFO Important - browser opened successfully
+2022-09-18 02:10:19,773 [main] INFO Important - Browser got launched
+2022-09-18 02:10:27,892 [main] INFO Important - browser opened successfully
+2022-09-18 02:10:30,524 [main] INFO Important - landed to login page successfully
+2022-09-18 02:10:30,607 [main] INFO Important - email address entered successfully
+2022-09-18 02:10:30,675 [main] INFO Important - password entered successfully
+2022-09-18 02:10:36,852 [main] INFO Important - successfully clicked on login button
+2022-09-18 02:11:56,267 [main] INFO Important - Browser got launched
+2022-09-18 02:12:05,727 [main] INFO Important - browser opened successfully
+2022-09-18 02:12:08,451 [main] INFO Important - landed to login page successfully
+2022-09-18 02:12:08,605 [main] INFO Important - email address entered successfully
+2022-09-18 02:12:08,682 [main] INFO Important - password entered successfully
+2022-09-18 02:12:08,753 [main] INFO Important - successfully clicked on login button
+2022-09-18 02:12:21,390 [main] INFO Important - clicked on living room product page menu successfully
+2022-09-18 02:16:29,821 [main] INFO Important - Browser got launched
+2022-09-18 02:16:36,654 [main] INFO Important - browser opened successfully
+2022-09-18 02:16:39,486 [main] INFO Important - landed to login page successfully
+2022-09-18 02:16:39,644 [main] INFO Important - email address entered successfully
+2022-09-18 02:16:39,727 [main] INFO Important - password entered successfully
+2022-09-18 02:16:45,242 [main] INFO Important - successfully clicked on login button
+2022-09-18 02:16:53,140 [main] INFO Important - clicked on living room product page menu successfully
+2022-09-18 02:18:04,273 [main] INFO Important - Browser got launched
+2022-09-18 02:18:30,233 [main] INFO Important - browser opened successfully
+2022-09-18 02:18:32,160 [main] INFO Important - landed to login page successfully
+2022-09-18 02:18:33,021 [main] INFO Important - email address entered successfully
+2022-09-18 02:18:33,181 [main] INFO Important - password entered successfully
+2022-09-18 02:18:33,344 [main] INFO Important - successfully clicked on login button
+2022-09-18 02:19:08,337 [main] INFO Important - Browser got launched
+2022-09-18 02:19:12,744 [main] INFO Important - browser opened successfully
+2022-09-18 02:19:15,637 [main] INFO Important - landed to login page successfully
+2022-09-18 02:19:15,783 [main] INFO Important - email address entered successfully
+2022-09-18 02:19:15,854 [main] INFO Important - password entered successfully
+2022-09-18 02:19:15,927 [main] INFO Important - successfully clicked on login button
+2022-09-18 02:19:27,787 [main] INFO Important - clicked on living room product page menu successfully
+2022-09-18 02:21:02,442 [main] INFO Important - Browser got launched
+2022-09-18 02:21:07,229 [main] INFO Important - browser opened successfully
+2022-09-18 02:21:28,294 [main] INFO Important - Browser got launched
+2022-09-18 02:21:32,793 [main] INFO Important - browser opened successfully
+2022-09-18 02:21:35,648 [main] INFO Important - landed to login page successfully
+2022-09-18 02:21:35,796 [main] INFO Important - email address entered successfully
+2022-09-18 02:21:35,875 [main] INFO Important - password entered successfully
+2022-09-18 02:21:40,772 [main] INFO Important - successfully clicked on login button
+2022-09-18 02:21:41,776 [main] INFO Important - browser opened successfully
+2022-09-18 02:21:41,776 [main] INFO Important - login successfully
+2022-09-18 02:21:49,566 [main] INFO Important - clicked on chairs product page menu successfully
+2022-09-18 02:21:49,566 [main] INFO Important - finding the broken images
+2022-09-18 02:24:15,837 [main] INFO Important - finding the broken url
+2022-09-18 02:43:20,040 [main] INFO Important - browser closed successfully
+2022-09-19 09:57:14,819 [main] INFO Important - Browser got launched
+2022-09-19 09:57:20,969 [main] INFO Important - browser opened successfully
+2022-09-19 09:57:23,909 [main] INFO Important - landed to login page successfully
+2022-09-19 09:57:24,064 [main] INFO Important - email address entered successfully
+2022-09-19 09:57:24,189 [main] INFO Important - password entered successfully
+2022-09-19 09:57:24,337 [main] INFO Important - successfully clicked on login button
+2022-09-19 09:57:25,345 [main] INFO Important - login successfully
+2022-09-19 09:57:30,029 [main] INFO Important - clicked on company logo successfully
+2022-09-19 09:57:30,163 [main] INFO Important - scroll to product successfully
+2022-09-19 09:57:36,403 [main] INFO Important - clicked on product successfully
+2022-09-19 09:57:36,420 [main] INFO Important - scroll to add to cart functionality done successfully
+2022-09-19 09:57:36,605 [main] INFO Important - entering values inside pincode field successfully
+2022-09-19 09:57:36,685 [main] INFO Important - checking pincode availability successfully done
+2022-09-19 09:57:37,976 [main] INFO Important - product add to cart successfully
+2022-09-19 09:57:40,103 [main] INFO Important - successfully click on the cart
+2022-09-19 09:57:43,427 [main] INFO Important - Proceed to checkout functionality clicked successfully
+2022-09-19 09:57:44,433 [main] INFO Important - Proceed to checkout functionality is working fine
+2022-09-19 09:58:57,560 [main] INFO Important - Browser got launched
+2022-09-19 09:59:02,043 [main] INFO Important - browser opened successfully
+2022-09-19 09:59:05,192 [main] INFO Important - landed to login page successfully
+2022-09-19 09:59:05,329 [main] INFO Important - email address entered successfully
+2022-09-19 09:59:05,442 [main] INFO Important - password entered successfully
+2022-09-19 09:59:10,399 [main] INFO Important - successfully clicked on login button
+2022-09-19 09:59:11,400 [main] INFO Important - login successfully
+2022-09-19 09:59:11,626 [main] INFO Important - clicked on company logo successfully
+2022-09-19 09:59:11,744 [main] INFO Important - scroll to product successfully
+2022-09-19 09:59:18,091 [main] INFO Important - clicked on product successfully
+2022-09-19 09:59:18,291 [main] INFO Important - scroll to add to cart functionality done successfully
+2022-09-19 09:59:18,427 [main] INFO Important - entering values inside pincode field successfully
+2022-09-19 09:59:18,572 [main] INFO Important - checking pincode availability successfully done
+2022-09-19 09:59:20,028 [main] INFO Important - product add to cart successfully
+2022-09-19 09:59:22,170 [main] INFO Important - successfully click on the cart
+2022-09-19 09:59:24,930 [main] INFO Important - Proceed to checkout functionality clicked successfully
+2022-09-19 09:59:25,937 [main] INFO Important - Proceed to checkout functionality is working fine
+2022-09-19 10:00:43,118 [main] INFO Important - Browser got launched
+2022-09-19 10:00:47,899 [main] INFO Important - browser opened successfully
+2022-09-19 10:00:50,962 [main] INFO Important - landed to login page successfully
+2022-09-19 10:00:51,109 [main] INFO Important - email address entered successfully
+2022-09-19 10:00:51,255 [main] INFO Important - password entered successfully
+2022-09-19 10:00:51,341 [main] INFO Important - successfully clicked on login button
+2022-09-19 10:00:52,348 [main] INFO Important - login successfully
+2022-09-19 10:00:57,143 [main] INFO Important - clicked on company logo successfully
+2022-09-19 10:00:57,237 [main] INFO Important - scroll to product successfully
+2022-09-19 10:01:02,335 [main] INFO Important - clicked on product successfully
+2022-09-19 10:01:02,514 [main] INFO Important - scroll to add to cart functionality done successfully
+2022-09-19 10:01:02,653 [main] INFO Important - entering values inside pincode field successfully
+2022-09-19 10:01:02,740 [main] INFO Important - checking pincode availability successfully done
+2022-09-19 10:01:04,035 [main] INFO Important - product add to cart successfully
+2022-09-19 10:01:06,137 [main] INFO Important - successfully click on the cart
+2022-09-19 10:01:08,215 [main] INFO Important - Proceed to checkout functionality clicked successfully
+2022-09-19 10:01:09,231 [main] INFO Important - Proceed to checkout functionality is working fine
+2022-09-19 10:02:35,281 [main] INFO Important - Browser got launched
+2022-09-19 10:02:40,352 [main] INFO Important - browser opened successfully
+2022-09-19 10:02:43,383 [main] INFO Important - landed to login page successfully
+2022-09-19 10:02:43,534 [main] INFO Important - email address entered successfully
+2022-09-19 10:02:43,619 [main] INFO Important - password entered successfully
+2022-09-19 10:02:48,271 [main] INFO Important - successfully clicked on login button
+2022-09-19 10:02:49,276 [main] INFO Important - login successfully
+2022-09-19 10:02:49,440 [main] INFO Important - clicked on company logo successfully
+2022-09-19 10:02:49,494 [main] INFO Important - scroll to product successfully
+2022-09-19 10:02:55,027 [main] INFO Important - clicked on product successfully
+2022-09-19 10:02:55,154 [main] INFO Important - scroll to add to cart functionality done successfully
+2022-09-19 10:02:55,256 [main] INFO Important - entering values inside pincode field successfully
+2022-09-19 10:02:55,339 [main] INFO Important - checking pincode availability successfully done
+2022-09-19 10:02:56,227 [main] INFO Important - product add to cart successfully
+2022-09-19 10:02:58,336 [main] INFO Important - successfully click on the cart
+2022-09-19 10:03:00,936 [main] INFO Important - Proceed to checkout functionality clicked successfully
+2022-09-19 10:03:01,944 [main] INFO Important - Proceed to checkout functionality is working fine
+2022-09-19 10:08:54,317 [main] INFO Important - Browser got launched
+2022-09-19 10:08:58,576 [main] INFO Important - browser opened successfully
+2022-09-19 10:09:01,571 [main] INFO Important - landed to login page successfully
+2022-09-19 10:09:01,762 [main] INFO Important - email address entered successfully
+2022-09-19 10:09:01,838 [main] INFO Important - password entered successfully
+2022-09-19 10:09:07,619 [main] INFO Important - successfully clicked on login button
+2022-09-19 10:09:08,635 [main] INFO Important - login successfully
+2022-09-19 10:09:08,840 [main] INFO Important - clicked on company logo successfully
+2022-09-19 10:09:08,958 [main] INFO Important - scroll to product successfully
+2022-09-19 10:09:15,295 [main] INFO Important - clicked on product successfully
+2022-09-19 10:09:15,415 [main] INFO Important - scroll to add to cart functionality done successfully
+2022-09-19 10:09:15,525 [main] INFO Important - entering values inside pincode field successfully
+2022-09-19 10:09:15,642 [main] INFO Important - checking pincode availability successfully done
+2022-09-19 10:09:16,922 [main] INFO Important - product add to cart successfully
+2022-09-19 10:09:19,075 [main] INFO Important - successfully click on the cart
+2022-09-19 10:13:03,333 [main] INFO Important - Browser got launched
+2022-09-19 10:13:07,956 [main] INFO Important - browser opened successfully
+2022-09-19 10:13:10,326 [main] INFO Important - landed to login page successfully
+2022-09-19 10:13:10,488 [main] INFO Important - email address entered successfully
+2022-09-19 10:13:10,560 [main] INFO Important - password entered successfully
+2022-09-19 10:13:15,483 [main] INFO Important - successfully clicked on login button
+2022-09-19 10:13:16,488 [main] INFO Important - login successfully
+2022-09-19 10:13:16,682 [main] INFO Important - clicked on company logo successfully
+2022-09-19 10:13:16,777 [main] INFO Important - scroll to product successfully
+2022-09-19 10:13:23,472 [main] INFO Important - clicked on product successfully
+2022-09-19 10:13:23,771 [main] INFO Important - scroll to add to cart functionality done successfully
+2022-09-19 10:13:23,872 [main] INFO Important - entering values inside pincode field successfully
+2022-09-19 10:13:23,953 [main] INFO Important - checking pincode availability successfully done
+2022-09-19 10:13:25,509 [main] INFO Important - product add to cart successfully
+2022-09-19 10:13:27,627 [main] INFO Important - successfully click on the cart
+2022-09-19 10:13:27,692 [main] INFO Important - open to cart frame closed successfully
+2022-09-19 10:13:27,793 [main] INFO Important - Buy now functionality clicked successfully
+2022-09-19 10:13:28,802 [main] INFO Important - Buy now functionality is working fine
+2022-09-19 10:13:31,241 [main] INFO Important - browser closed successfully
+2022-09-19 10:13:58,590 [main] INFO Important - Browser got launched
+2022-09-19 10:14:03,863 [main] INFO Important - browser opened successfully
+2022-09-19 10:14:06,103 [main] INFO Important - landed to login page successfully
+2022-09-19 10:14:07,108 [main] INFO Important - email address entered successfully
+2022-09-19 10:14:07,297 [main] INFO Important - password entered successfully
+2022-09-19 10:14:12,263 [main] INFO Important - successfully clicked on login button
+2022-09-19 10:14:13,272 [main] INFO Important - login successfully
+2022-09-19 10:14:13,521 [main] INFO Important - clicked on company logo successfully
+2022-09-19 10:14:13,682 [main] INFO Important - scroll to product successfully
+2022-09-19 10:14:19,557 [main] INFO Important - clicked on product successfully
+2022-09-19 10:14:19,804 [main] INFO Important - scroll to add to cart functionality done successfully
+2022-09-19 10:14:19,962 [main] INFO Important - entering values inside pincode field successfully
+2022-09-19 10:14:20,110 [main] INFO Important - checking pincode availability successfully done
+2022-09-19 10:14:21,606 [main] INFO Important - product add to cart successfully
+2022-09-19 10:14:23,750 [main] INFO Important - successfully click on the cart
+2022-09-19 10:14:23,818 [main] INFO Important - open to cart frame closed successfully
+2022-09-19 10:14:23,924 [main] INFO Important - Buy now functionality clicked successfully
+2022-09-19 10:14:24,928 [main] INFO Important - Buy now functionality is working fine
+2022-09-19 10:14:27,340 [main] INFO Important - browser closed successfully
+2022-09-19 10:16:13,960 [main] INFO Important - Browser got launched
+2022-09-19 10:16:18,654 [main] INFO Important - browser opened successfully
+2022-09-19 10:16:21,719 [main] INFO Important - landed to login page successfully
+2022-09-19 10:16:21,957 [main] INFO Important - email address entered successfully
+2022-09-19 10:16:22,059 [main] INFO Important - password entered successfully
+2022-09-19 10:16:28,222 [main] INFO Important - successfully clicked on login button
+2022-09-19 10:16:29,238 [main] INFO Important - login successfully
+2022-09-19 10:16:29,453 [main] INFO Important - clicked on company logo successfully
+2022-09-19 10:16:29,538 [main] INFO Important - scroll to product successfully
+2022-09-19 10:16:35,507 [main] INFO Important - clicked on product successfully
+2022-09-19 10:16:35,638 [main] INFO Important - scroll to add to cart functionality done successfully
+2022-09-19 10:16:35,750 [main] INFO Important - entering values inside pincode field successfully
+2022-09-19 10:16:35,820 [main] INFO Important - checking pincode availability successfully done
+2022-09-19 10:16:37,325 [main] INFO Important - product add to cart successfully
+2022-09-19 10:16:39,467 [main] INFO Important - successfully click on the cart
+2022-09-19 10:16:39,525 [main] INFO Important - open to cart frame closed successfully
+2022-09-19 10:16:39,640 [main] INFO Important - Buy now functionality clicked successfully
+2022-09-19 10:16:40,663 [main] INFO Important - Buy now functionality is working fine
+2022-09-19 10:16:40,911 [main] INFO Important - browser closed successfully
+2022-09-19 10:17:21,970 [main] INFO Important - Browser got launched
+2022-09-19 10:17:26,477 [main] INFO Important - browser opened successfully
+2022-09-19 10:17:29,525 [main] INFO Important - landed to login page successfully
+2022-09-19 10:17:29,679 [main] INFO Important - email address entered successfully
+2022-09-19 10:17:29,754 [main] INFO Important - password entered successfully
+2022-09-19 10:17:34,494 [main] INFO Important - successfully clicked on login button
+2022-09-19 10:17:35,497 [main] INFO Important - login successfully
+2022-09-19 10:17:35,695 [main] INFO Important - clicked on company logo successfully
+2022-09-19 10:17:35,840 [main] INFO Important - scroll to product successfully
+2022-09-19 10:17:41,101 [main] INFO Important - clicked on product successfully
+2022-09-19 10:17:41,272 [main] INFO Important - scroll to add to cart functionality done successfully
+2022-09-19 10:17:41,438 [main] INFO Important - entering values inside pincode field successfully
+2022-09-19 10:17:41,538 [main] INFO Important - checking pincode availability successfully done
+2022-09-19 10:17:43,111 [main] INFO Important - product add to cart successfully
+2022-09-19 10:17:45,282 [main] INFO Important - successfully click on the cart
+2022-09-19 10:17:45,342 [main] INFO Important - open to cart frame closed successfully
+2022-09-19 10:17:45,498 [main] INFO Important - Buy now functionality clicked successfully
+2022-09-19 10:17:46,516 [main] INFO Important - Buy now functionality is working fine
+2022-09-19 10:17:48,933 [main] INFO Important - browser closed successfully
+2022-09-19 10:19:34,109 [main] INFO Important - Browser got launched
+2022-09-19 10:19:38,557 [main] INFO Important - browser opened successfully
+2022-09-19 10:19:41,312 [main] INFO Important - landed to login page successfully
+2022-09-19 10:19:41,467 [main] INFO Important - email address entered successfully
+2022-09-19 10:19:41,599 [main] INFO Important - password entered successfully
+2022-09-19 10:19:46,837 [main] INFO Important - successfully clicked on login button
+2022-09-19 10:19:47,841 [main] INFO Important - login successfully
+2022-09-19 10:19:48,069 [main] INFO Important - clicked on company logo successfully
+2022-09-19 10:19:48,230 [main] INFO Important - scroll to product successfully
+2022-09-19 10:19:53,032 [main] INFO Important - clicked on product successfully
+2022-09-19 10:19:53,148 [main] INFO Important - scroll to add to cart functionality done successfully
+2022-09-19 10:19:53,245 [main] INFO Important - entering values inside pincode field successfully
+2022-09-19 10:19:53,328 [main] INFO Important - checking pincode availability successfully done
+2022-09-19 10:19:54,181 [main] INFO Important - product add to cart successfully
+2022-09-19 10:19:56,324 [main] INFO Important - successfully click on the cart
+2022-09-19 10:19:59,372 [main] INFO Important - Proceed to checkout functionality clicked successfully
+2022-09-19 10:20:00,377 [main] INFO Important - Proceed to checkout functionality is working fine
+2022-09-19 10:22:07,974 [main] INFO Important - Browser got launched
+2022-09-19 10:22:12,680 [main] INFO Important - browser opened successfully
+2022-09-19 10:22:15,693 [main] INFO Important - landed to login page successfully
+2022-09-19 10:22:15,832 [main] INFO Important - email address entered successfully
+2022-09-19 10:22:15,925 [main] INFO Important - password entered successfully
+2022-09-19 10:22:21,306 [main] INFO Important - successfully clicked on login button
+2022-09-19 10:22:22,316 [main] INFO Important - login successfully
+2022-09-19 10:22:22,478 [main] INFO Important - clicked on company logo successfully
+2022-09-19 10:22:22,537 [main] INFO Important - scroll to product successfully
+2022-09-19 10:22:28,866 [main] INFO Important - clicked on product successfully
+2022-09-19 10:22:28,976 [main] INFO Important - scroll to add to cart functionality done successfully
+2022-09-19 10:22:29,111 [main] INFO Important - entering values inside pincode field successfully
+2022-09-19 10:22:29,194 [main] INFO Important - checking pincode availability successfully done
+2022-09-19 10:22:30,706 [main] INFO Important - product add to cart successfully
+2022-09-19 10:22:32,838 [main] INFO Important - successfully click on the cart
+2022-09-19 10:22:35,597 [main] INFO Important - Proceed to checkout functionality clicked successfully
+2022-09-19 10:22:36,661 [main] INFO Important - Proceed to checkout functionality is working fine
+2022-09-19 10:30:49,925 [main] INFO Important - Browser got launched
+2022-09-19 10:30:55,898 [main] INFO Important - browser opened successfully
+2022-09-19 10:30:59,003 [main] INFO Important - landed to login page successfully
+2022-09-19 10:30:59,197 [main] INFO Important - email address entered successfully
+2022-09-19 10:30:59,288 [main] INFO Important - password entered successfully
+2022-09-19 10:31:06,965 [main] INFO Important - successfully clicked on login button
+2022-09-19 10:31:07,981 [main] INFO Important - login successfully
+2022-09-19 10:31:08,121 [main] INFO Important - clicked on company logo successfully
+2022-09-19 10:31:08,187 [main] INFO Important - scroll to product successfully
+2022-09-19 10:31:15,042 [main] INFO Important - clicked on product successfully
+2022-09-19 10:31:15,245 [main] INFO Important - scroll to add to cart functionality done successfully
+2022-09-19 10:31:15,421 [main] INFO Important - entering values inside pincode field successfully
+2022-09-19 10:31:15,516 [main] INFO Important - checking pincode availability successfully done
+2022-09-19 10:31:17,061 [main] INFO Important - product add to cart successfully
+2022-09-19 10:31:19,206 [main] INFO Important - successfully click on the cart
+2022-09-19 10:31:20,815 [main] INFO Important - Proceed to checkout functionality clicked successfully
+2022-09-19 10:32:33,622 [main] INFO Important - Browser got launched
+2022-09-19 10:32:38,088 [main] INFO Important - browser opened successfully
+2022-09-19 10:32:41,235 [main] INFO Important - landed to login page successfully
+2022-09-19 10:32:41,411 [main] INFO Important - email address entered successfully
+2022-09-19 10:32:41,504 [main] INFO Important - password entered successfully
+2022-09-19 10:32:46,213 [main] INFO Important - successfully clicked on login button
+2022-09-19 10:32:47,224 [main] INFO Important - login successfully
+2022-09-19 10:32:47,414 [main] INFO Important - clicked on company logo successfully
+2022-09-19 10:32:47,520 [main] INFO Important - scroll to product successfully
+2022-09-19 10:32:53,741 [main] INFO Important - clicked on product successfully
+2022-09-19 10:32:53,880 [main] INFO Important - scroll to add to cart functionality done successfully
+2022-09-19 10:32:53,993 [main] INFO Important - entering values inside pincode field successfully
+2022-09-19 10:32:54,192 [main] INFO Important - checking pincode availability successfully done
+2022-09-19 10:32:55,576 [main] INFO Important - product add to cart successfully
+2022-09-19 10:32:57,725 [main] INFO Important - successfully click on the cart
+2022-09-19 10:32:59,419 [main] INFO Important - Proceed to checkout functionality clicked successfully
+2022-09-19 10:36:37,654 [main] INFO Important - Browser got launched
+2022-09-19 10:36:42,427 [main] INFO Important - browser opened successfully
+2022-09-19 10:36:45,191 [main] INFO Important - landed to login page successfully
+2022-09-19 10:36:45,323 [main] INFO Important - email address entered successfully
+2022-09-19 10:36:45,444 [main] INFO Important - password entered successfully
+2022-09-19 10:36:45,576 [main] INFO Important - successfully clicked on login button
+2022-09-19 10:36:46,580 [main] INFO Important - login successfully
+2022-09-19 10:36:51,040 [main] INFO Important - clicked on company logo successfully
+2022-09-19 10:36:51,285 [main] INFO Important - scroll to product successfully
+2022-09-19 10:36:57,702 [main] INFO Important - clicked on product successfully
+2022-09-19 10:36:57,720 [main] INFO Important - scroll to add to cart functionality done successfully
+2022-09-19 10:36:57,792 [main] INFO Important - entering values inside pincode field successfully
+2022-09-19 10:36:57,853 [main] INFO Important - checking pincode availability successfully done
+2022-09-19 10:38:21,281 [main] INFO Important - Browser got launched
+2022-09-19 10:38:27,061 [main] INFO Important - browser opened successfully
+2022-09-19 10:38:30,109 [main] INFO Important - landed to login page successfully
+2022-09-19 10:38:30,273 [main] INFO Important - email address entered successfully
+2022-09-19 10:38:30,353 [main] INFO Important - password entered successfully
+2022-09-19 10:38:35,551 [main] INFO Important - successfully clicked on login button
+2022-09-19 10:38:36,559 [main] INFO Important - login successfully
+2022-09-19 10:38:36,714 [main] INFO Important - clicked on company logo successfully
+2022-09-19 10:38:36,773 [main] INFO Important - scroll to product successfully
+2022-09-19 10:38:42,414 [main] INFO Important - clicked on product successfully
+2022-09-19 10:38:42,535 [main] INFO Important - scroll to add to cart functionality done successfully
+2022-09-19 10:38:42,648 [main] INFO Important - entering values inside pincode field successfully
+2022-09-19 10:38:42,731 [main] INFO Important - checking pincode availability successfully done
+2022-09-19 10:38:44,081 [main] INFO Important - product add to cart successfully
+2022-09-19 10:38:46,148 [main] INFO Important - successfully click on the cart
+2022-09-19 10:38:48,314 [main] INFO Important - Proceed to checkout functionality clicked successfully
+2022-09-19 10:44:17,920 [main] INFO Important - Browser got launched
+2022-09-19 10:44:23,537 [main] INFO Important - browser opened successfully
+2022-09-19 10:44:26,458 [main] INFO Important - landed to login page successfully
+2022-09-19 10:44:26,570 [main] INFO Important - email address entered successfully
+2022-09-19 10:44:26,648 [main] INFO Important - password entered successfully
+2022-09-19 10:44:26,727 [main] INFO Important - successfully clicked on login button
+2022-09-19 10:44:27,731 [main] INFO Important - login successfully
+2022-09-19 10:44:32,532 [main] INFO Important - clicked on company logo successfully
+2022-09-19 10:44:32,610 [main] INFO Important - scroll to product successfully
+2022-09-19 10:44:37,966 [main] INFO Important - clicked on product successfully
+2022-09-19 10:44:38,041 [main] INFO Important - scroll to add to cart functionality done successfully
+2022-09-19 10:44:38,245 [main] INFO Important - entering values inside pincode field successfully
+2022-09-19 10:44:38,337 [main] INFO Important - checking pincode availability successfully done
+2022-09-19 10:44:39,653 [main] INFO Important - product add to cart successfully
+2022-09-19 10:44:41,788 [main] INFO Important - successfully click on the cart
+2022-09-19 10:44:43,668 [main] INFO Important - Proceed to checkout functionality clicked successfully
+2022-09-19 10:44:43,669 [main] INFO Important - Proceed to checkout functionality is working fine
+2022-09-19 10:49:52,073 [main] INFO Important - Browser got launched
+2022-09-19 10:49:56,442 [main] INFO Important - browser opened successfully
+2022-09-19 10:49:59,441 [main] INFO Important - landed to login page successfully
+2022-09-19 10:49:59,716 [main] INFO Important - email address entered successfully
+2022-09-19 10:49:59,800 [main] INFO Important - password entered successfully
+2022-09-19 10:50:06,426 [main] INFO Important - successfully clicked on login button
+2022-09-19 10:50:07,432 [main] INFO Important - login successfully
+2022-09-19 10:50:07,651 [main] INFO Important - clicked on company logo successfully
+2022-09-19 10:50:07,717 [main] INFO Important - scroll to product successfully
+2022-09-19 10:50:14,237 [main] INFO Important - clicked on product successfully
+2022-09-19 10:50:14,421 [main] INFO Important - scroll to add to cart functionality done successfully
+2022-09-19 10:50:14,560 [main] INFO Important - entering values inside pincode field successfully
+2022-09-19 10:50:14,658 [main] INFO Important - checking pincode availability successfully done
+2022-09-19 10:50:15,976 [main] INFO Important - product add to cart successfully
+2022-09-19 10:50:18,132 [main] INFO Important - successfully click on the cart
+2022-09-19 10:50:20,067 [main] INFO Important - Proceed to checkout functionality clicked successfully
+2022-09-19 10:50:20,067 [main] INFO Important - Proceed to checkout functionality is working fine
+2022-09-19 10:50:39,182 [main] INFO Important - Browser got launched
+2022-09-19 10:50:44,696 [main] INFO Important - browser opened successfully
+2022-09-19 10:50:48,041 [main] INFO Important - landed to login page successfully
+2022-09-19 10:50:48,171 [main] INFO Important - email address entered successfully
+2022-09-19 10:50:48,243 [main] INFO Important - password entered successfully
+2022-09-19 10:50:53,289 [main] INFO Important - successfully clicked on login button
+2022-09-19 10:50:54,300 [main] INFO Important - login successfully
+2022-09-19 10:50:54,526 [main] INFO Important - clicked on company logo successfully
+2022-09-19 10:50:54,680 [main] INFO Important - scroll to product successfully
+2022-09-19 10:51:00,712 [main] INFO Important - clicked on product successfully
+2022-09-19 10:51:00,788 [main] INFO Important - scroll to add to cart functionality done successfully
+2022-09-19 10:51:00,906 [main] INFO Important - entering values inside pincode field successfully
+2022-09-19 10:51:00,981 [main] INFO Important - checking pincode availability successfully done
+2022-09-19 10:51:02,563 [main] INFO Important - product add to cart successfully
+2022-09-19 10:51:04,680 [main] INFO Important - successfully click on the cart
+2022-09-19 10:51:06,170 [main] INFO Important - Proceed to checkout functionality clicked successfully
+2022-09-19 10:51:06,171 [main] INFO Important - Proceed to checkout functionality is working fine
+2022-09-19 10:53:11,710 [main] INFO Important - Browser got launched
+2022-09-19 10:53:16,395 [main] INFO Important - browser opened successfully
+2022-09-19 10:53:19,045 [main] INFO Important - landed to login page successfully
+2022-09-19 10:53:19,169 [main] INFO Important - email address entered successfully
+2022-09-19 10:53:19,245 [main] INFO Important - password entered successfully
+2022-09-19 10:53:25,071 [main] INFO Important - successfully clicked on login button
+2022-09-19 10:53:26,085 [main] INFO Important - login successfully
+2022-09-19 10:53:26,278 [main] INFO Important - clicked on company logo successfully
+2022-09-19 10:53:26,384 [main] INFO Important - scroll to product successfully
+2022-09-19 10:53:32,790 [main] INFO Important - clicked on product successfully
+2022-09-19 10:53:32,806 [main] INFO Important - scroll to add to cart functionality done successfully
+2022-09-19 10:53:32,932 [main] INFO Important - entering values inside pincode field successfully
+2022-09-19 10:53:33,057 [main] INFO Important - checking pincode availability successfully done
+2022-09-19 10:53:34,605 [main] INFO Important - product add to cart successfully
+2022-09-19 10:53:36,766 [main] INFO Important - successfully click on the cart
+2022-09-19 10:53:39,088 [main] INFO Important - Proceed to checkout functionality clicked successfully
+2022-09-19 10:53:39,088 [main] INFO Important - Proceed to checkout functionality is working fine
+2022-09-19 10:54:13,607 [main] INFO Important - Browser got launched
+2022-09-19 10:54:18,264 [main] INFO Important - browser opened successfully
+2022-09-19 10:54:20,635 [main] INFO Important - landed to login page successfully
+2022-09-19 10:54:20,760 [main] INFO Important - email address entered successfully
+2022-09-19 10:54:20,843 [main] INFO Important - password entered successfully
+2022-09-19 10:54:26,398 [main] INFO Important - successfully clicked on login button
+2022-09-19 10:54:27,401 [main] INFO Important - login successfully
+2022-09-19 10:54:27,623 [main] INFO Important - clicked on company logo successfully
+2022-09-19 10:54:27,787 [main] INFO Important - scroll to product successfully
+2022-09-19 10:54:34,199 [main] INFO Important - clicked on product successfully
+2022-09-19 10:54:34,376 [main] INFO Important - scroll to add to cart functionality done successfully
+2022-09-19 10:54:34,522 [main] INFO Important - entering values inside pincode field successfully
+2022-09-19 10:54:34,632 [main] INFO Important - checking pincode availability successfully done
+2022-09-19 10:54:36,265 [main] INFO Important - product add to cart successfully
+2022-09-19 10:54:40,801 [main] INFO Important - successfully click on the cart
+2022-09-19 10:54:40,863 [main] INFO Important - Proceed to checkout functionality clicked successfully
+2022-09-19 10:54:40,863 [main] INFO Important - Proceed to checkout functionality is working fine
+2022-09-19 10:56:16,136 [main] INFO Important - Browser got launched
+2022-09-19 10:56:20,837 [main] INFO Important - browser opened successfully
+2022-09-19 10:56:23,789 [main] INFO Important - landed to login page successfully
+2022-09-19 10:56:23,937 [main] INFO Important - email address entered successfully
+2022-09-19 10:56:24,013 [main] INFO Important - password entered successfully
+2022-09-19 10:56:29,573 [main] INFO Important - successfully clicked on login button
+2022-09-19 10:56:30,575 [main] INFO Important - login successfully
+2022-09-19 10:56:30,782 [main] INFO Important - clicked on company logo successfully
+2022-09-19 10:56:30,853 [main] INFO Important - scroll to product successfully
+2022-09-19 10:56:37,230 [main] INFO Important - clicked on product successfully
+2022-09-19 10:56:37,355 [main] INFO Important - scroll to add to cart functionality done successfully
+2022-09-19 10:56:37,470 [main] INFO Important - entering values inside pincode field successfully
+2022-09-19 10:56:37,540 [main] INFO Important - checking pincode availability successfully done
+2022-09-19 10:56:38,941 [main] INFO Important - product add to cart successfully
+2022-09-19 10:56:44,311 [main] INFO Important - successfully click on the cart
+2022-09-19 10:56:47,150 [main] INFO Important - Proceed to checkout functionality clicked successfully
+2022-09-19 10:56:47,150 [main] INFO Important - Proceed to checkout functionality is working fine
+2022-09-19 15:11:33,121 [main] INFO Important - Browser got launched
+2022-09-19 15:11:38,138 [main] INFO Important - browser opened successfully
+2022-09-19 15:11:38,934 [main] INFO Important - Browser got launched
+2022-09-19 15:11:43,437 [main] INFO Important - browser opened successfully
+2022-09-19 15:11:46,189 [main] INFO Important - landed to login page successfully
+2022-09-19 15:11:46,333 [main] INFO Important - email address entered successfully
+2022-09-19 15:11:46,414 [main] INFO Important - password entered successfully
+2022-09-19 15:11:52,674 [main] INFO Important - successfully clicked on login button
+2022-09-19 15:11:53,677 [main] INFO Important - login is working fine
+2022-09-19 15:11:53,970 [main] INFO Important - browser closed successfully
+2022-09-19 15:11:54,716 [main] INFO Important - Browser got launched
+2022-09-19 15:11:59,832 [main] INFO Important - browser opened successfully
+2022-09-19 15:12:02,087 [main] INFO Important - landed to login page successfully
+2022-09-19 15:12:02,221 [main] INFO Important - email address entered successfully
+2022-09-19 15:12:02,290 [main] INFO Important - password entered successfully
+2022-09-19 15:12:07,807 [main] INFO Important - successfully clicked on login button
+2022-09-19 15:12:42,013 [main] INFO Important - Browser got launched
+2022-09-19 15:12:47,701 [main] INFO Important - browser opened successfully
+2022-09-19 15:12:48,480 [main] INFO Important - Browser got launched
+2022-09-19 15:12:53,351 [main] INFO Important - browser opened successfully
+2022-09-19 15:12:56,344 [main] INFO Important - landed to login page successfully
+2022-09-19 15:12:56,430 [main] INFO Important - email address entered successfully
+2022-09-19 15:12:56,493 [main] INFO Important - password entered successfully
+2022-09-19 15:13:01,385 [main] INFO Important - successfully clicked on login button
+2022-09-19 15:13:02,394 [main] INFO Important - login is working fine
+2022-09-19 15:13:04,868 [main] INFO Important - browser closed successfully
+2022-09-19 15:13:05,698 [main] INFO Important - Browser got launched
+2022-09-19 15:13:11,821 [main] INFO Important - browser opened successfully
+2022-09-19 15:13:46,516 [main] INFO Important - Browser got launched
+2022-09-19 15:13:51,577 [main] INFO Important - browser opened successfully
+2022-09-19 15:13:54,680 [main] INFO Important - landed to login page successfully
+2022-09-19 15:13:54,768 [main] INFO Important - email address entered successfully
+2022-09-19 15:13:54,838 [main] INFO Important - password entered successfully
+2022-09-19 15:13:59,706 [main] INFO Important - successfully clicked on login button
+2022-09-19 15:15:04,580 [main] INFO Important - Browser got launched
+2022-09-19 15:15:14,899 [main] INFO Important - browser opened successfully
+2022-09-19 15:15:18,125 [main] INFO Important - landed to login page successfully
+2022-09-19 15:15:18,214 [main] INFO Important - email address entered successfully
+2022-09-19 15:15:18,279 [main] INFO Important - password entered successfully
+2022-09-19 15:15:25,601 [main] INFO Important - successfully clicked on login button
+2022-09-19 15:16:56,076 [main] INFO Important - Browser got launched
+2022-09-19 15:17:00,513 [main] INFO Important - browser opened successfully
+2022-09-19 15:17:03,549 [main] INFO Important - landed to login page successfully
+2022-09-19 15:17:03,642 [main] INFO Important - email address entered successfully
+2022-09-19 15:17:03,711 [main] INFO Important - password entered successfully
+2022-09-19 15:17:09,485 [main] INFO Important - successfully clicked on login button
+2022-09-19 15:17:10,487 [main] INFO Important - browser opened successfully
+2022-09-19 15:17:10,489 [main] INFO Important - login successfully
+2022-09-19 15:17:10,490 [main] INFO Important - testing broken links
+2022-09-19 15:18:13,180 [main] INFO Important - Browser got launched
+2022-09-19 15:18:17,847 [main] INFO Important - browser opened successfully
+2022-09-19 15:18:20,054 [main] INFO Important - landed to login page successfully
+2022-09-19 15:18:20,186 [main] INFO Important - email address entered successfully
+2022-09-19 15:18:20,251 [main] INFO Important - password entered successfully
+2022-09-19 15:18:24,883 [main] INFO Important - successfully clicked on login button
+2022-09-19 15:18:25,899 [main] INFO Important - login successfully
+2022-09-19 15:21:23,225 [main] INFO Important - Browser got launched
+2022-09-19 15:21:29,523 [main] INFO Important - browser opened successfully
+2022-09-19 15:21:32,745 [main] INFO Important - landed to login page successfully
+2022-09-19 15:21:33,019 [main] INFO Important - email address entered successfully
+2022-09-19 15:21:33,198 [main] INFO Important - password entered successfully
+2022-09-19 15:21:38,820 [main] INFO Important - successfully clicked on login button
+2022-09-19 15:22:09,773 [main] INFO Important - Browser got launched
+2022-09-19 15:22:15,668 [main] INFO Important - browser opened successfully
+2022-09-19 15:22:19,281 [main] INFO Important - landed to login page successfully
+2022-09-19 15:22:19,557 [main] INFO Important - email address entered successfully
+2022-09-19 15:22:19,747 [main] INFO Important - password entered successfully
+2022-09-19 15:22:25,498 [main] INFO Important - successfully clicked on login button
+2022-09-19 15:24:51,358 [main] INFO Important - Browser got launched
+2022-09-19 15:24:56,385 [main] INFO Important - browser opened successfully
+2022-09-19 15:24:59,515 [main] INFO Important - landed to login page successfully
+2022-09-19 15:24:59,629 [main] INFO Important - email address entered successfully
+2022-09-19 15:24:59,711 [main] INFO Important - password entered successfully
+2022-09-19 15:25:05,372 [main] INFO Important - successfully clicked on login button
+2022-09-19 15:25:53,289 [main] INFO Important - Browser got launched
+2022-09-19 15:26:01,553 [main] INFO Important - browser opened successfully
+2022-09-19 15:29:39,064 [main] INFO Important - Browser got launched
+2022-09-19 15:29:44,063 [main] INFO Important - browser opened successfully
+2022-09-19 15:29:47,324 [main] INFO Important - landed to login page successfully
+2022-09-19 15:29:47,448 [main] INFO Important - email address entered successfully
+2022-09-19 15:29:47,541 [main] INFO Important - password entered successfully
+2022-09-19 15:29:53,108 [main] INFO Important - successfully clicked on login button
+2022-09-19 15:31:37,839 [main] INFO Important - testing broken images
+2022-09-19 15:32:32,643 [main] INFO Important - browser closed successfully
+2022-09-19 15:32:32,644 [main] INFO Important - browser closed successfully
+2022-09-19 15:33:27,197 [main] INFO Important - Browser got launched
+2022-09-19 15:33:34,245 [main] INFO Important - browser opened successfully
+2022-09-19 15:33:37,394 [main] INFO Important - landed to login page successfully
+2022-09-19 15:33:37,653 [main] INFO Important - email address entered successfully
+2022-09-19 15:33:37,812 [main] INFO Important - password entered successfully
+2022-09-19 15:33:43,489 [main] INFO Important - successfully clicked on login button
+2022-09-19 15:34:43,318 [main] INFO Important - Browser got launched
+2022-09-19 15:34:48,710 [main] INFO Important - browser opened successfully
+2022-09-19 15:34:51,862 [main] INFO Important - landed to login page successfully
+2022-09-19 15:34:51,962 [main] INFO Important - email address entered successfully
+2022-09-19 15:34:52,031 [main] INFO Important - password entered successfully
+2022-09-19 15:34:57,641 [main] INFO Important - successfully clicked on login button
+2022-09-19 15:40:58,923 [main] INFO Important - Browser got launched
+2022-09-19 15:41:04,338 [main] INFO Important - browser opened successfully
+2022-09-19 15:41:07,480 [main] INFO Important - landed to login page successfully
+2022-09-19 15:41:07,571 [main] INFO Important - email address entered successfully
+2022-09-19 15:41:07,641 [main] INFO Important - password entered successfully
+2022-09-19 15:41:13,109 [main] INFO Important - successfully clicked on login button
+2022-09-19 15:41:55,817 [main] INFO Important - Browser got launched
+2022-09-19 15:42:07,171 [main] INFO Important - browser opened successfully
+2022-09-19 15:42:10,347 [main] INFO Important - landed to login page successfully
+2022-09-19 15:42:10,438 [main] INFO Important - email address entered successfully
+2022-09-19 15:42:10,508 [main] INFO Important - password entered successfully
+2022-09-19 15:42:15,170 [main] INFO Important - successfully clicked on login button
+2022-09-19 15:43:41,254 [main] INFO Important - Browser got launched
+2022-09-19 15:43:46,391 [main] INFO Important - browser opened successfully
+2022-09-19 15:43:49,355 [main] INFO Important - landed to login page successfully
+2022-09-19 15:43:49,449 [main] INFO Important - email address entered successfully
+2022-09-19 15:43:49,519 [main] INFO Important - password entered successfully
+2022-09-19 15:43:54,846 [main] INFO Important - successfully clicked on login button
+2022-09-19 15:45:35,155 [main] INFO Important - Browser got launched
+2022-09-19 15:45:39,676 [main] INFO Important - browser opened successfully
+2022-09-19 15:45:42,658 [main] INFO Important - landed to login page successfully
+2022-09-19 15:45:42,792 [main] INFO Important - email address entered successfully
+2022-09-19 15:45:42,870 [main] INFO Important - password entered successfully
+2022-09-19 15:45:49,694 [main] INFO Important - successfully clicked on login button
+2022-09-19 15:52:15,942 [main] INFO Important - Browser got launched
+2022-09-19 15:52:22,940 [main] INFO Important - browser opened successfully
+2022-09-19 15:52:25,808 [main] INFO Important - landed to login page successfully
+2022-09-19 15:52:25,942 [main] INFO Important - email address entered successfully
+2022-09-19 15:52:26,030 [main] INFO Important - password entered successfully
+2022-09-19 15:52:31,582 [main] INFO Important - successfully clicked on login button
+2022-09-19 15:54:33,098 [main] INFO Important - Browser got launched
+2022-09-19 15:54:38,498 [main] INFO Important - browser opened successfully
+2022-09-19 15:54:41,622 [main] INFO Important - landed to login page successfully
+2022-09-19 15:54:41,719 [main] INFO Important - email address entered successfully
+2022-09-19 15:54:41,793 [main] INFO Important - password entered successfully
+2022-09-19 15:54:41,864 [main] INFO Important - successfully clicked on login button
+2022-09-19 16:32:11,025 [main] INFO Important - Browser got launched
+2022-09-19 16:32:16,090 [main] INFO Important - browser opened successfully
+2022-09-19 16:32:16,839 [main] INFO Important - Browser got launched
+2022-09-19 16:32:21,168 [main] INFO Important - browser opened successfully
+2022-09-19 16:32:21,358 [main] INFO Important - landed to login page successfully
+2022-09-19 16:32:33,808 [main] INFO Important - browser closed successfully
+2022-09-19 16:33:03,898 [main] INFO Important - Browser got launched
+2022-09-19 16:33:10,093 [main] INFO Important - browser opened successfully
+2022-09-19 16:33:10,909 [main] INFO Important - Browser got launched
+2022-09-19 16:33:15,698 [main] INFO Important - browser opened successfully
+2022-09-19 16:33:18,627 [main] INFO Important - landed to login page successfully
+2022-09-19 16:33:18,715 [main] INFO Important - email address entered successfully
+2022-09-19 16:33:18,780 [main] INFO Important - password entered successfully
+2022-09-19 16:33:25,394 [main] INFO Important - successfully clicked on login button
+2022-09-19 16:33:26,407 [main] INFO Important - login is working fine
+2022-09-19 16:33:28,896 [main] INFO Important - browser closed successfully
+2022-09-19 16:34:43,424 [main] INFO Important - Browser got launched
+2022-09-19 16:34:48,097 [main] INFO Important - browser opened successfully
+2022-09-19 16:34:51,103 [main] INFO Important - landed to login page successfully
+2022-09-19 16:34:51,189 [main] INFO Important - email address entered successfully
+2022-09-19 16:34:51,276 [main] INFO Important - password entered successfully
+2022-09-19 16:34:56,922 [main] INFO Important - successfully clicked on login button
+2022-09-19 16:35:51,504 [main] INFO Important - Browser got launched
+2022-09-19 16:35:56,872 [main] INFO Important - browser opened successfully
+2022-09-19 16:35:59,800 [main] INFO Important - landed to login page successfully
+2022-09-19 16:35:59,923 [main] INFO Important - email address entered successfully
+2022-09-19 16:36:00,058 [main] INFO Important - password entered successfully
+2022-09-19 16:36:05,722 [main] INFO Important - successfully clicked on login button
+2022-09-19 16:37:51,182 [main] INFO Important - Browser got launched
+2022-09-19 16:37:55,993 [main] INFO Important - browser opened successfully
+2022-09-19 16:37:58,955 [main] INFO Important - landed to login page successfully
+2022-09-19 16:37:59,098 [main] INFO Important - email address entered successfully
+2022-09-19 16:37:59,189 [main] INFO Important - password entered successfully
+2022-09-19 16:38:07,845 [main] INFO Important - successfully clicked on login button
+2022-09-19 16:52:58,648 [main] INFO Important - Browser got launched
+2022-09-19 16:53:03,437 [main] INFO Important - browser opened successfully
+2022-09-19 16:53:06,746 [main] INFO Important - landed to login page successfully
+2022-09-19 16:53:06,874 [main] INFO Important - email address entered successfully
+2022-09-19 16:53:06,949 [main] INFO Important - password entered successfully
+2022-09-19 16:53:13,365 [main] INFO Important - successfully clicked on login button
+2022-09-19 16:53:59,182 [main] INFO Important - Browser got launched
+2022-09-19 16:54:04,095 [main] INFO Important - browser opened successfully
+2022-09-19 16:54:07,446 [main] INFO Important - landed to login page successfully
+2022-09-19 16:54:07,600 [main] INFO Important - email address entered successfully
+2022-09-19 16:54:07,712 [main] INFO Important - password entered successfully
+2022-09-19 16:54:13,365 [main] INFO Important - successfully clicked on login button
+2022-09-19 16:56:54,358 [main] INFO Important - Browser got launched
+2022-09-19 16:57:00,748 [main] INFO Important - browser opened successfully
+2022-09-19 16:57:04,118 [main] INFO Important - landed to login page successfully
+2022-09-19 16:57:04,304 [main] INFO Important - email address entered successfully
+2022-09-19 16:57:04,398 [main] INFO Important - password entered successfully
+2022-09-19 16:57:10,274 [main] INFO Important - successfully clicked on login button
+2022-09-19 16:58:40,750 [main] INFO Important - Browser got launched
+2022-09-19 16:58:46,179 [main] INFO Important - browser opened successfully
+2022-09-19 16:58:49,371 [main] INFO Important - landed to login page successfully
+2022-09-19 16:58:49,552 [main] INFO Important - email address entered successfully
+2022-09-19 16:58:49,644 [main] INFO Important - password entered successfully
+2022-09-19 16:58:55,386 [main] INFO Important - successfully clicked on login button
+2022-09-19 16:59:39,793 [main] INFO Important - Browser got launched
+2022-09-19 16:59:44,140 [main] INFO Important - browser opened successfully
+2022-09-19 16:59:47,180 [main] INFO Important - landed to login page successfully
+2022-09-19 16:59:47,291 [main] INFO Important - email address entered successfully
+2022-09-19 16:59:47,363 [main] INFO Important - password entered successfully
+2022-09-19 16:59:53,088 [main] INFO Important - successfully clicked on login button
+2022-09-19 17:00:50,101 [main] INFO Important - Browser got launched
+2022-09-19 17:00:55,221 [main] INFO Important - browser opened successfully
+2022-09-19 17:00:58,446 [main] INFO Important - landed to login page successfully
+2022-09-19 17:00:58,620 [main] INFO Important - email address entered successfully
+2022-09-19 17:00:58,698 [main] INFO Important - password entered successfully
+2022-09-19 17:01:05,109 [main] INFO Important - successfully clicked on login button
+2022-09-19 17:03:40,119 [main] INFO Important - Browser got launched
+2022-09-19 17:03:45,449 [main] INFO Important - browser opened successfully
+2022-09-19 17:04:21,258 [main] INFO Important - Browser got launched
+2022-09-19 17:04:27,866 [main] INFO Important - browser opened successfully
+2022-09-19 17:04:31,178 [main] INFO Important - landed to login page successfully
+2022-09-19 17:04:31,332 [main] INFO Important - email address entered successfully
+2022-09-19 17:04:31,405 [main] INFO Important - password entered successfully
+2022-09-19 17:04:37,475 [main] INFO Important - successfully clicked on login button
+2022-09-19 17:05:26,837 [main] INFO Important - Browser got launched
+2022-09-19 17:05:31,481 [main] INFO Important - browser opened successfully
+2022-09-19 17:05:34,677 [main] INFO Important - landed to login page successfully
+2022-09-19 17:05:34,794 [main] INFO Important - email address entered successfully
+2022-09-19 17:05:34,930 [main] INFO Important - password entered successfully
+2022-09-19 17:05:40,104 [main] INFO Important - successfully clicked on login button
+2022-09-19 17:08:13,372 [main] INFO Important - Browser got launched
+2022-09-19 17:08:18,374 [main] INFO Important - browser opened successfully
+2022-09-19 17:08:21,343 [main] INFO Important - landed to login page successfully
+2022-09-19 17:08:21,454 [main] INFO Important - email address entered successfully
+2022-09-19 17:08:21,534 [main] INFO Important - password entered successfully
+2022-09-19 17:08:27,658 [main] INFO Important - successfully clicked on login button
+2022-09-19 17:09:59,829 [main] INFO Important - Browser got launched
+2022-09-19 17:10:04,993 [main] INFO Important - browser opened successfully
+2022-09-19 17:10:08,942 [main] INFO Important - landed to login page successfully
+2022-09-19 17:10:09,089 [main] INFO Important - email address entered successfully
+2022-09-19 17:10:09,180 [main] INFO Important - password entered successfully
+2022-09-19 17:10:14,651 [main] INFO Important - successfully clicked on login button
+2022-09-19 17:13:54,319 [main] INFO Important - Browser got launched
+2022-09-19 17:13:59,767 [main] INFO Important - browser opened successfully
+2022-09-19 17:14:02,861 [main] INFO Important - landed to login page successfully
+2022-09-19 17:14:03,022 [main] INFO Important - email address entered successfully
+2022-09-19 17:14:03,109 [main] INFO Important - password entered successfully
+2022-09-19 17:14:08,352 [main] INFO Important - successfully clicked on login button
+2022-09-19 17:14:09,557 [main] INFO Important - popup closed successfully
+2022-09-19 17:15:50,906 [main] INFO Important - Browser got launched
+2022-09-19 17:16:03,162 [main] INFO Important - browser opened successfully
+2022-09-19 17:16:07,979 [main] INFO Important - landed to login page successfully
+2022-09-19 17:16:08,108 [main] INFO Important - email address entered successfully
+2022-09-19 17:16:08,182 [main] INFO Important - password entered successfully
+2022-09-19 17:16:14,617 [main] INFO Important - successfully clicked on login button
+2022-09-19 17:16:15,728 [main] INFO Important - popup closed successfully
+2022-09-19 17:19:02,323 [main] INFO Important - Browser got launched
+2022-09-19 17:19:07,513 [main] INFO Important - browser opened successfully
+2022-09-19 17:19:11,003 [main] INFO Important - landed to login page successfully
+2022-09-19 17:19:11,103 [main] INFO Important - email address entered successfully
+2022-09-19 17:19:11,176 [main] INFO Important - password entered successfully
+2022-09-19 17:19:16,564 [main] INFO Important - successfully clicked on login button
+2022-09-19 17:20:32,549 [main] INFO Important - Browser got launched
+2022-09-19 17:20:37,455 [main] INFO Important - browser opened successfully
+2022-09-19 17:20:40,157 [main] INFO Important - landed to login page successfully
+2022-09-19 17:20:40,310 [main] INFO Important - email address entered successfully
+2022-09-19 17:20:40,413 [main] INFO Important - password entered successfully
+2022-09-19 17:20:40,488 [main] INFO Important - successfully clicked on login button
+2022-09-19 17:21:22,682 [main] INFO Important - Browser got launched
+2022-09-19 17:21:27,534 [main] INFO Important - browser opened successfully
+2022-09-19 17:21:30,401 [main] INFO Important - landed to login page successfully
+2022-09-19 17:21:30,565 [main] INFO Important - email address entered successfully
+2022-09-19 17:21:30,639 [main] INFO Important - password entered successfully
+2022-09-19 17:21:36,768 [main] INFO Important - successfully clicked on login button
+2022-09-19 17:27:13,173 [main] INFO Important - Browser got launched
+2022-09-19 17:27:17,990 [main] INFO Important - browser opened successfully
+2022-09-19 17:27:20,895 [main] INFO Important - landed to login page successfully
+2022-09-19 17:27:21,051 [main] INFO Important - email address entered successfully
+2022-09-19 17:27:21,172 [main] INFO Important - password entered successfully
+2022-09-19 17:27:26,809 [main] INFO Important - successfully clicked on login button
+2022-09-19 17:31:06,732 [main] INFO Important - Browser got launched
+2022-09-19 17:31:12,625 [main] INFO Important - browser opened successfully
+2022-09-19 17:31:15,989 [main] INFO Important - landed to login page successfully
+2022-09-19 17:31:16,149 [main] INFO Important - email address entered successfully
+2022-09-19 17:31:16,225 [main] INFO Important - password entered successfully
+2022-09-19 17:31:22,004 [main] INFO Important - successfully clicked on login button
+2022-09-19 17:33:56,148 [main] INFO Important - Browser got launched
+2022-09-19 17:34:01,796 [main] INFO Important - browser opened successfully
+2022-09-19 17:34:04,724 [main] INFO Important - landed to login page successfully
+2022-09-19 17:34:04,824 [main] INFO Important - email address entered successfully
+2022-09-19 17:34:04,893 [main] INFO Important - password entered successfully
+2022-09-19 17:34:10,265 [main] INFO Important - successfully clicked on login button
+2022-09-19 17:41:45,127 [main] INFO Important - Browser got launched
+2022-09-19 17:41:50,612 [main] INFO Important - browser opened successfully
+2022-09-19 17:41:53,709 [main] INFO Important - landed to login page successfully
+2022-09-19 17:41:53,792 [main] INFO Important - email address entered successfully
+2022-09-19 17:41:53,855 [main] INFO Important - password entered successfully
+2022-09-19 17:41:59,531 [main] INFO Important - successfully clicked on login button
+2022-09-19 17:44:37,617 [main] INFO Important - Browser got launched
+2022-09-19 17:44:42,830 [main] INFO Important - browser opened successfully
+2022-09-19 17:44:45,516 [main] INFO Important - landed to login page successfully
+2022-09-19 17:44:45,633 [main] INFO Important - email address entered successfully
+2022-09-19 17:44:45,713 [main] INFO Important - password entered successfully
+2022-09-19 17:44:51,311 [main] INFO Important - successfully clicked on login button
+2022-09-19 17:52:43,617 [main] INFO Important - Browser got launched
+2022-09-19 17:52:48,707 [main] INFO Important - browser opened successfully
+2022-09-19 17:52:51,866 [main] INFO Important - landed to login page successfully
+2022-09-19 17:52:51,982 [main] INFO Important - email address entered successfully
+2022-09-19 17:52:52,050 [main] INFO Important - password entered successfully
+2022-09-19 17:52:57,805 [main] INFO Important - successfully clicked on login button
+2022-09-19 17:53:36,884 [main] INFO Important - Browser got launched
+2022-09-19 17:53:41,551 [main] INFO Important - browser opened successfully
+2022-09-19 17:53:44,423 [main] INFO Important - landed to login page successfully
+2022-09-19 17:53:44,553 [main] INFO Important - email address entered successfully
+2022-09-19 17:53:44,624 [main] INFO Important - password entered successfully
+2022-09-19 17:53:49,549 [main] INFO Important - successfully clicked on login button
+2022-09-19 17:53:50,729 [main] INFO Important - popup closed successfully
+2022-09-19 17:54:20,730 [main] INFO Important - Browser got launched
+2022-09-19 17:54:25,778 [main] INFO Important - browser opened successfully
+2022-09-19 17:54:28,156 [main] INFO Important - landed to login page successfully
+2022-09-19 17:54:28,285 [main] INFO Important - email address entered successfully
+2022-09-19 17:54:28,360 [main] INFO Important - password entered successfully
+2022-09-19 17:54:33,335 [main] INFO Important - successfully clicked on login button
+2022-09-19 17:54:34,538 [main] INFO Important - popup closed successfully
+2022-09-19 18:02:24,937 [main] INFO Important - Browser got launched
+2022-09-19 18:02:30,097 [main] INFO Important - browser opened successfully
+2022-09-19 18:02:33,293 [main] INFO Important - landed to login page successfully
+2022-09-19 18:02:33,377 [main] INFO Important - email address entered successfully
+2022-09-19 18:02:33,442 [main] INFO Important - password entered successfully
+2022-09-19 18:02:39,709 [main] INFO Important - successfully clicked on login button
+2022-09-19 18:03:49,188 [main] INFO Important - Browser got launched
+2022-09-19 18:03:54,566 [main] INFO Important - browser opened successfully
+2022-09-19 18:03:57,770 [main] INFO Important - landed to login page successfully
+2022-09-19 18:03:57,861 [main] INFO Important - email address entered successfully
+2022-09-19 18:03:57,925 [main] INFO Important - password entered successfully
+2022-09-19 18:04:02,588 [main] INFO Important - successfully clicked on login button
+2022-09-19 18:04:49,667 [main] INFO Important - Browser got launched
+2022-09-19 18:04:55,270 [main] INFO Important - browser opened successfully
+2022-09-19 18:04:57,949 [main] INFO Important - landed to login page successfully
+2022-09-19 18:04:58,089 [main] INFO Important - email address entered successfully
+2022-09-19 18:04:58,154 [main] INFO Important - password entered successfully
+2022-09-19 18:05:03,615 [main] INFO Important - successfully clicked on login button
+2022-09-19 21:00:46,450 [main] INFO Important - Browser got launched
+2022-09-19 21:00:52,351 [main] INFO Important - browser opened successfully
+2022-09-19 21:00:55,649 [main] INFO Important - landed to login page successfully
+2022-09-19 21:00:55,770 [main] INFO Important - email address entered successfully
+2022-09-19 21:00:55,841 [main] INFO Important - password entered successfully
+2022-09-19 21:01:01,250 [main] INFO Important - successfully clicked on login button
+2022-09-19 21:11:09,211 [main] INFO Important - Browser got launched
+2022-09-19 21:11:15,045 [main] INFO Important - browser opened successfully
+2022-09-19 21:11:18,109 [main] INFO Important - landed to login page successfully
+2022-09-19 21:11:18,210 [main] INFO Important - email address entered successfully
+2022-09-19 21:11:18,291 [main] INFO Important - password entered successfully
+2022-09-19 21:11:18,371 [main] INFO Important - successfully clicked on login button
+2022-09-19 21:15:55,809 [main] INFO Important - Browser got launched
+2022-09-19 21:16:01,676 [main] INFO Important - browser opened successfully
+2022-09-19 21:16:04,743 [main] INFO Important - landed to login page successfully
+2022-09-19 21:16:04,923 [main] INFO Important - email address entered successfully
+2022-09-19 21:16:05,040 [main] INFO Important - password entered successfully
+2022-09-19 21:16:11,656 [main] INFO Important - successfully clicked on login button
+2022-09-19 21:17:25,849 [main] INFO Important - Browser got launched
+2022-09-19 21:17:31,663 [main] INFO Important - browser opened successfully
+2022-09-19 21:17:35,551 [main] INFO Important - landed to login page successfully
+2022-09-19 21:17:35,661 [main] INFO Important - email address entered successfully
+2022-09-19 21:17:35,784 [main] INFO Important - password entered successfully
+2022-09-19 21:17:35,868 [main] INFO Important - successfully clicked on login button
+2022-09-19 21:58:50,526 [main] INFO Important - Browser got launched
+2022-09-19 21:59:00,110 [main] INFO Important - browser opened successfully
+2022-09-19 21:59:03,491 [main] INFO Important - landed to login page successfully
+2022-09-19 21:59:03,626 [main] INFO Important - email address entered successfully
+2022-09-19 21:59:03,726 [main] INFO Important - password entered successfully
+2022-09-19 21:59:10,552 [main] INFO Important - successfully clicked on login button
+2022-09-19 22:02:25,971 [main] INFO Important - Browser got launched
+2022-09-19 22:02:31,536 [main] INFO Important - browser opened successfully
+2022-09-19 22:02:35,004 [main] INFO Important - landed to login page successfully
+2022-09-19 22:02:35,126 [main] INFO Important - email address entered successfully
+2022-09-19 22:02:35,203 [main] INFO Important - password entered successfully
+2022-09-19 22:02:41,733 [main] INFO Important - successfully clicked on login button
+2022-09-19 22:03:40,768 [main] INFO Important - Browser got launched
+2022-09-19 22:03:45,300 [main] INFO Important - browser opened successfully
+2022-09-19 22:03:47,511 [main] INFO Important - landed to login page successfully
+2022-09-19 22:03:48,394 [main] INFO Important - email address entered successfully
+2022-09-19 22:03:48,530 [main] INFO Important - password entered successfully
+2022-09-19 22:03:48,721 [main] INFO Important - successfully clicked on login button
+2022-09-19 22:04:32,176 [main] INFO Important - Browser got launched
+2022-09-19 22:04:37,413 [main] INFO Important - browser opened successfully
+2022-09-19 22:04:40,312 [main] INFO Important - landed to login page successfully
+2022-09-19 22:04:40,465 [main] INFO Important - email address entered successfully
+2022-09-19 22:04:40,575 [main] INFO Important - password entered successfully
+2022-09-19 22:04:45,860 [main] INFO Important - successfully clicked on login button
+2022-09-19 22:05:41,527 [main] INFO Important - Browser got launched
+2022-09-19 22:05:44,322 [main] INFO Important - browser opened successfully
+2022-09-19 22:15:18,750 [main] INFO Important - Browser got launched
+2022-09-19 22:15:23,891 [main] INFO Important - browser opened successfully
+2022-09-19 22:15:25,869 [main] INFO Important - landed to login page successfully
+2022-09-19 22:15:26,751 [main] INFO Important - email address entered successfully
+2022-09-19 22:15:26,887 [main] INFO Important - password entered successfully
+2022-09-19 22:15:27,028 [main] INFO Important - successfully clicked on login button
+2022-09-20 10:04:47,916 [main] INFO Important - Browser got launched
+2022-09-20 10:04:52,753 [main] INFO Important - browser opened successfully
+2022-09-20 10:04:55,778 [main] INFO Important - landed to login page successfully
+2022-09-20 10:04:55,926 [main] INFO Important - email address entered successfully
+2022-09-20 10:04:56,001 [main] INFO Important - password entered successfully
+2022-09-20 10:05:00,920 [main] INFO Important - successfully clicked on login button
+2022-09-20 10:07:27,103 [main] INFO Important - Browser got launched
+2022-09-20 10:07:32,415 [main] INFO Important - browser opened successfully
+2022-09-20 10:07:35,413 [main] INFO Important - landed to login page successfully
+2022-09-20 10:07:35,569 [main] INFO Important - email address entered successfully
+2022-09-20 10:07:35,644 [main] INFO Important - password entered successfully
+2022-09-20 10:07:40,911 [main] INFO Important - successfully clicked on login button
+2022-09-20 10:14:20,573 [main] INFO Important - Browser got launched
+2022-09-20 10:14:25,829 [main] INFO Important - browser opened successfully
+2022-09-20 10:14:29,412 [main] INFO Important - landed to login page successfully
+2022-09-20 10:14:29,693 [main] INFO Important - email address entered successfully
+2022-09-20 10:14:29,841 [main] INFO Important - password entered successfully
+2022-09-20 10:14:35,837 [main] INFO Important - successfully clicked on login button
+2022-09-20 10:32:32,343 [main] INFO Important - Browser got launched
+2022-09-20 10:32:41,755 [main] INFO Important - browser opened successfully
+2022-09-20 10:34:42,757 [main] INFO Important - Browser got launched
+2022-09-20 10:34:52,303 [main] INFO Important - browser opened successfully
+2022-09-20 10:34:59,361 [main] INFO Important - landed to login page successfully
+2022-09-20 10:35:00,358 [main] INFO Important - email address entered successfully
+2022-09-20 10:35:00,714 [main] INFO Important - password entered successfully
+2022-09-20 10:35:14,082 [main] INFO Important - successfully clicked on login button
+2022-09-20 10:36:56,039 [main] INFO Important - Browser got launched
+2022-09-20 10:37:05,199 [main] INFO Important - browser opened successfully
+2022-09-20 10:42:28,642 [main] INFO Important - Browser got launched
+2022-09-20 10:42:38,230 [main] INFO Important - browser opened successfully
+2022-09-20 10:43:31,403 [main] INFO Important - Browser got launched
+2022-09-20 10:43:38,653 [main] INFO Important - browser opened successfully
+2022-09-20 10:43:45,907 [main] INFO Important - landed to login page successfully
+2022-09-20 10:43:46,709 [main] INFO Important - email address entered successfully
+2022-09-20 10:43:47,109 [main] INFO Important - password entered successfully
+2022-09-20 10:43:54,968 [main] INFO Important - successfully clicked on login button
+2022-09-20 10:53:22,447 [main] INFO Important - Browser got launched
+2022-09-20 10:53:27,439 [main] INFO Important - browser opened successfully
+2022-09-20 10:53:30,501 [main] INFO Important - landed to login page successfully
+2022-09-20 10:53:30,587 [main] INFO Important - email address entered successfully
+2022-09-20 10:53:30,666 [main] INFO Important - password entered successfully
+2022-09-20 10:53:36,653 [main] INFO Important - successfully clicked on login button
+2022-09-20 11:41:02,977 [main] INFO Important - Browser got launched
+2022-09-20 11:41:31,904 [main] INFO Important - browser opened successfully
+2022-09-20 11:41:35,127 [main] INFO Important - landed to login page successfully
+2022-09-20 11:41:35,229 [main] INFO Important - email address entered successfully
+2022-09-20 11:41:35,292 [main] INFO Important - password entered successfully
+2022-09-20 11:41:41,158 [main] INFO Important - successfully clicked on login button
+2022-09-20 11:43:30,097 [main] INFO Important - Browser got launched
+2022-09-20 11:43:56,017 [main] INFO Important - browser opened successfully
+2022-09-20 11:43:58,955 [main] INFO Important - landed to login page successfully
+2022-09-20 11:43:59,083 [main] INFO Important - email address entered successfully
+2022-09-20 11:43:59,149 [main] INFO Important - password entered successfully
+2022-09-20 11:44:04,412 [main] INFO Important - successfully clicked on login button
+2022-09-20 12:03:37,217 [main] INFO Important - Browser got launched
+2022-09-20 12:03:42,094 [main] INFO Important - browser opened successfully
+2022-09-20 12:03:45,586 [main] INFO Important - landed to login page successfully
+2022-09-20 12:03:45,849 [main] INFO Important - email address entered successfully
+2022-09-20 12:03:46,007 [main] INFO Important - password entered successfully
+2022-09-20 12:03:51,832 [main] INFO Important - successfully clicked on login button
+2022-09-20 12:04:56,476 [main] INFO Important - Browser got launched
+2022-09-20 12:05:03,359 [main] INFO Important - browser opened successfully
+2022-09-20 12:05:06,728 [main] INFO Important - landed to login page successfully
+2022-09-20 12:05:07,017 [main] INFO Important - email address entered successfully
+2022-09-20 12:05:07,206 [main] INFO Important - password entered successfully
+2022-09-20 12:05:12,549 [main] INFO Important - successfully clicked on login button

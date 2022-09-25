@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite"  >
+    <listeners>
+        <listener class-name="Listeners.listeners"/>
+    </listeners>
+    <test name="Sequential execution of test">
+        <classes>
+            <class name="test.Login_page.LoginTest_Functional_test"/>
+            <class name="test.Homepage.homepageHoverTest"/>
+            <class name="test.Homepage.Homepage_Broken_Links_Test"/>
+            <class name="test.products_menu.living_room_page_Broken_links"/>
+            <class name="test.products_menu.sofas_Broken_links"/>
+            <class name="test.products_menu.chairs_Broken_links"/>
+            <class name="test.products_menu.Wardrobe_page_broken_links"/>
+            <class name="test.products_menu.Dining_Broken_links"/>
+            <class name="test.products_menu.Storage_Broken_links"/>
+            <class name="test.Product.Add_to_cart_testcase"/>
+            <class name="test.Product.Remove_from_cart_testcase"/>
+        </classes>
+    </test>
+
+
+
+</suite>

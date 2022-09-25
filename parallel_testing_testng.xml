@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests" >
+    <listeners>
+        <listener class-name="Listeners.listeners"/>
+    </listeners>
+    <test thread-count="1" name="LoginTest" >
+        <classes>
+            <class name="Login_page.test.LoginTest_Functional_test"/>
+        </classes>
+    </test>
+    <test thread-count="2" name="Homepage test" >
+        <classes>
+            <class name="Homepage.test.HomePage_Hover_Test"/>
+        </classes>
+    </test>
+    <test thread-count="3" name="SearchTest" >
+        <classes>
+            <class name="Homepage.test.Homepage_Broken_Links_Test"/>
+
+
+        </classes>
+    </test>
+    <test thread-count="4" name="Products menu1" >
+        <classes>
+            <class name="products_menu.test.living_room_page_Broken_links"/>
+
+
+        </classes>
+    </test>
+    <test thread-count="5" name="Products menu2" >
+        <classes>
+            <class name="products_menu.test.chairs_Broken_links"/>
+
+
+        </classes>
+    </test>
+    <test thread-count="6" name="Products menu3" >
+        <classes>
+            <class name="products_menu.test.sofas_Broken_links"/>
+
+
+        </classes>
+    </test>
+
+    <test thread-count="5" name="Products menu4" >
+        <classes>
+            <class name="products_menu.test.Bedroom_page_broken_links"/>
+
+
+</classes>
+</test>
+    <test thread-count="7" name="Products menu5" >
+        <classes>
+            <class name="products_menu.test.Dining_Broken_links"/>
+
+
+        </classes>
+    </test>
+    <test thread-count="8" name="Products menu6" >
+        <classes>
+            <class name="products_menu.test.Wardrobe_page_broken_links"/>
+
+
+        </classes>
+    </test>
+    <test thread-count="9" name="Products menu7" >
+        <classes>
+            <class name="products_menu.test.Storage_Broken_links"/>
+
+
+        </classes>
+    </test>
+
+
+</suite>
