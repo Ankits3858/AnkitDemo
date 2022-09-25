@@ -50,6 +50,11 @@ public class homepageHoverTest extends BaseClass
         logger.info("Successful Hover to HINDWARE menu");
         cl.move_to_element(h.get_Company_Logo());
         cl.move_to_element(h.get_Company_Logo());
+        cl.move_to_element(h.get_Decor());
+        cl.move_to_element(h.get_Hindware());
+        cl.move_to_element(h.get_Beds_wardrobe());
+        cl.move_to_element(h.get_Furniture());
+        cl.move_to_element(h.get_Work_from_home());
 
         //scrolling down to check GUI position
         cl.scroll_down_till_end();
